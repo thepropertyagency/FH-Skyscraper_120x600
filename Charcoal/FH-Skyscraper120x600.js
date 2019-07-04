@@ -132,10 +132,14 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.beginFill("#2E2E2E").beginStroke().moveTo(12.6,40.5).lineTo(12.6,30.2).lineTo(14,30.2).lineTo(14,39.2).lineTo(18.2,39.2).lineTo(18.2,40.5).closePath().moveTo(2.4,40.5).lineTo(2.4,30.2).lineTo(3.8,30.2).lineTo(3.8,39.2).lineTo(8,39.2).lineTo(8,40.5).closePath().moveTo(-4.7,40.5).lineTo(-4.7,30.2).lineTo(-3.3,30.2).lineTo(-3.3,40.5).closePath().moveTo(-11.8,40.5).lineTo(-11.8,36.1).lineTo(-16.8,36.1).lineTo(-16.8,40.5).lineTo(-18.2,40.5).lineTo(-18.2,30.2).lineTo(-16.8,30.2).lineTo(-16.8,34.8).lineTo(-11.8,34.8).lineTo(-11.8,30.2).lineTo(-10.4,30.2).lineTo(-10.4,40.5).closePath().moveTo(-17.7,22.9).curveTo(-19.2,21.4,-19.2,19.2).curveTo(-19.2,17,-17.7,15.4).curveTo(-16.2,13.9,-14,13.9).curveTo(-12,13.9,-10.5,15.3).lineTo(-11.5,16.2).curveTo(-12.6,15.2,-14,15.2).curveTo(-15.6,15.2,-16.7,16.4).curveTo(-17.8,17.6,-17.8,19.2).curveTo(-17.8,20.9,-16.7,22).curveTo(-15.6,23.2,-14,23.2).curveTo(-12.6,23.2,-11.7,22.4).curveTo(-10.8,21.6,-10.7,20.4).lineTo(-13.6,20.4).lineTo(-13.6,19.2).lineTo(-9.1,19.2).curveTo(-9.1,21.8,-10.5,23.2).curveTo(-11.7,24.5,-14,24.5).curveTo(-16.2,24.5,-17.7,22.9).closePath().moveTo(30,24.3).lineTo(30,14).lineTo(36.2,14).lineTo(36.2,15.3).lineTo(31.4,15.3).lineTo(31.4,18.6).lineTo(35.6,18.6).lineTo(35.6,19.9).lineTo(31.4,19.9).lineTo(31.4,23).lineTo(36.3,23).lineTo(36.3,24.3).closePath().moveTo(18.8,24.3).lineTo(18.8,14).lineTo(24.9,14).lineTo(24.9,15.3).lineTo(20.2,15.3).lineTo(20.2,18.6).lineTo(24.3,18.6).lineTo(24.3,19.9).lineTo(20.2,19.9).lineTo(20.2,23).lineTo(25,23).lineTo(25,24.3).closePath().moveTo(11.9,24.3).lineTo(9.3,20.5).lineTo(8,20.5).lineTo(8,24.3).lineTo(6.5,24.3).lineTo(6.5,14).lineTo(10.5,14).curveTo(12,14,12.9,15).curveTo(13.6,15.9,13.6,17.3).curveTo(13.6,18.5,13,19.4).curveTo(12.2,20.3,10.9,20.4).lineTo(13.6,24.3).closePath().moveTo(8,19.2).lineTo(10.4,19.2).curveTo(12.1,19.2,12.1,17.3).curveTo(12.1,15.3,10.5,15.3).lineTo(8,15.3).closePath().moveTo(-2.6,24.3).lineTo(-2.6,15.3).lineTo(-5.7,15.3).lineTo(-5.7,14).lineTo(2,14).lineTo(2,15.3).lineTo(-1.2,15.3).lineTo(-1.2,24.3).closePath().moveTo(-25.7,24.3).lineTo(-25.7,14).lineTo(-24.3,14).lineTo(-24.3,24.3).closePath().moveTo(-36.3,24.3).lineTo(-36.3,14).lineTo(-30.3,14).lineTo(-30.3,15.3).lineTo(-34.9,15.3).lineTo(-34.9,18.6).lineTo(-31.2,18.6).lineTo(-31.2,19.9).lineTo(-34.9,19.9).lineTo(-34.9,24.3).closePath().moveTo(41.4,6.9).curveTo(33.7,3.6,18.5,1.4).lineTo(13.1,1.1).curveTo(-0.7,1.1,-15.3,2.4).curveTo(-31.9,3.8,-41.7,6.3).curveTo(-42.3,6.5,-42.5,5.8).lineTo(-42.5,5.4).curveTo(-42.3,5,-42,5).curveTo(-33.3,1.9,-24.4,0.2).curveTo(-14.3,-1.8,-4.1,-1.8).lineTo(-3.7,-2.6).curveTo(-3,-4.1,-2.9,-4.6).curveTo(-2.6,-6.3,-3,-7.9).curveTo(-3.4,-9.6,-4.5,-10.7).curveTo(-5.6,-11.8,-7.2,-12).curveTo(-8.9,-12.2,-12.3,-11.1).curveTo(-13.9,-10.5,-15,-10.3).curveTo(-17.3,-9.8,-19.2,-10.3).curveTo(-21.4,-10.9,-22.2,-12.8).lineTo(-22.3,-12.9).lineTo(-22.9,-12.9).curveTo(-25.6,-13,-26.3,-15).curveTo(-26.8,-16.3,-25.9,-17.4).curveTo(-25.5,-17.9,-24.4,-18.5).curveTo(-22.9,-19.4,-23.2,-20.8).lineTo(-23.6,-21.6).curveTo(-24.9,-23.9,-23.7,-24.8).curveTo(-22.9,-25.3,-21.7,-25.4).curveTo(-20.8,-25.5,-20.5,-25.7).curveTo(-19.7,-26.1,-19.3,-28.2).lineTo(-19.1,-28.9).curveTo(-18.7,-31.3,-17.5,-32.1).curveTo(-16.2,-32.9,-14,-31.9).lineTo(-13.3,-31.5).curveTo(-11.7,-31,-8.7,-31.6).curveTo(-8.8,-32.3,-8.7,-33).curveTo(-8.4,-34.3,-6.4,-36).lineTo(-5.5,-36.8).lineTo(-5.8,-37.3).lineTo(-6,-38.1).curveTo(-6.3,-39.2,-5.9,-39.9).curveTo(-5.5,-40.6,-4.6,-40.5).curveTo(-3.8,-40.4,-3.5,-39.8).curveTo(-2.8,-38.6,-3.5,-37.2).lineTo(-3.6,-36.9).curveTo(-2.2,-36.1,-0.5,-36.3).curveTo(0.6,-36.3,2.6,-37.2).lineTo(4.6,-38).curveTo(6.3,-38.6,7.3,-37.7).curveTo(8.4,-36.9,8.4,-34.1).lineTo(8.4,-33.4).curveTo(8.4,-31.4,8.6,-30.5).curveTo(8.9,-29,10.1,-28.4).curveTo(11.1,-27.8,12,-28.6).lineTo(12.6,-29.3).curveTo(13.6,-30.5,14.7,-30.8).curveTo(15.7,-31,16.3,-30.4).curveTo(17,-29.8,17,-28.6).curveTo(16.9,-26.4,17.6,-25.5).lineTo(18.2,-24.7).lineTo(18.4,-24.9).curveTo(19.6,-26,20.9,-25.6).curveTo(21.7,-25.5,21.9,-24.7).curveTo(22.2,-24,21.7,-23.3).curveTo(21.3,-22.9,20.6,-22.7).curveTo(19.9,-22.5,19.4,-22.6).lineTo(18.8,-22.7).curveTo(18.6,-22.1,19,-21.5).curveTo(19.8,-20.6,21.5,-20.5).curveTo(24.1,-20.4,25.3,-18.8).curveTo(26.4,-17.3,26.5,-15.2).curveTo(26.5,-13.9,26,-12.6).curveTo(25.4,-11.2,24.4,-10.5).curveTo(23.1,-9.7,21.6,-10.5).curveTo(20.8,-10.9,20.2,-11.5).curveTo(19.4,-12.2,19,-12.4).curveTo(18.6,-12.6,18.2,-12.5).curveTo(17.8,-12.3,17.3,-11.5).curveTo(15.1,-8.6,11.1,-9.1).curveTo(10.1,-9.2,7.8,-10.4).lineTo(7.4,-10.6).curveTo(5.8,-11.4,4.7,-11.7).curveTo(3.7,-11.8,3.1,-11.6).curveTo(2.3,-11.3,2,-10.5).curveTo(1.7,-9.8,1.9,-9).curveTo(2.6,-7.1,3,-6.8).curveTo(3.5,-6.4,3.2,-5.9).curveTo(3,-5.4,2.4,-5.6).lineTo(2.4,-5.6).curveTo(1.2,-6.1,0.7,-8).curveTo(0.2,-9.6,0.5,-10.7).curveTo(0.8,-12.1,1.9,-12.7).curveTo(3.1,-13.5,4.8,-13).lineTo(5,-12.9).curveTo(5.9,-12.8,8.3,-11.6).lineTo(8.4,-11.5).curveTo(10.2,-10.7,11.3,-10.5).curveTo(12.8,-10.2,14.2,-10.8).curveTo(14.8,-11,15.7,-12.1).lineTo(16.6,-13).curveTo(17.1,-13.6,17.9,-13.7).curveTo(18.5,-14,19.3,-13.7).lineTo(19.5,-13.6).curveTo(20.3,-13.3,20.8,-12.8).lineTo(21,-12.6).lineTo(22.3,-11.7).curveTo(22.8,-11.4,23.3,-11.6).curveTo(24.5,-12,24.9,-13.6).curveTo(25.3,-15,24.9,-16.6).curveTo(24.4,-18.3,23.1,-18.9).curveTo(22.7,-19.1,21.5,-19.1).curveTo(20.2,-19.1,19.4,-19.5).curveTo(17.7,-20.2,17.4,-21.9).curveTo(17.3,-22.7,17.5,-23.5).curveTo(17.1,-23.8,16.6,-24.4).curveTo(15.5,-25.9,15.5,-27.5).lineTo(15.6,-28.3).curveTo(15.7,-29.2,15.5,-29.4).lineTo(15.3,-29.5).curveTo(14.7,-29.5,14,-28.8).lineTo(13.7,-28.4).curveTo(12.4,-26.9,11.2,-26.8).curveTo(9.8,-26.6,8.8,-27.5).curveTo(7.1,-29,7,-32.1).lineTo(7,-32.9).curveTo(7,-36.2,6.3,-36.7).curveTo(5.9,-36.9,5.3,-36.7).lineTo(3.3,-36).curveTo(1.6,-35.3,0.7,-35).curveTo(-0.8,-34.7,-2.1,-34.9).curveTo(-3.4,-35.1,-4.5,-35.8).lineTo(-5.5,-34.9).curveTo(-7.5,-33.3,-7.3,-32).curveTo(-4.5,-32.6,-2.6,-32).curveTo(-0.7,-31.5,-0.1,-29.9).curveTo(0.5,-28.2,-0.7,-27.4).curveTo(-1.4,-26.8,-2.6,-27.1).curveTo(-3.1,-27.1,-4,-27.3).curveTo(-5.1,-27.6,-6.3,-28.5).curveTo(-7.6,-29.3,-8.2,-30.4).curveTo(-11.3,-29.6,-13.1,-30).lineTo(-14.5,-30.6).curveTo(-15.5,-31,-15.9,-31.1).curveTo(-16.5,-31.2,-16.9,-30.9).curveTo(-17.5,-30.3,-17.9,-28.2).lineTo(-18.2,-26.7).curveTo(-18.8,-25.1,-19.6,-24.5).curveTo(-20.2,-24.1,-21.5,-24).lineTo(-22.2,-23.9).curveTo(-22.8,-23.8,-22.8,-23.7).curveTo(-22.8,-23.6,-22.4,-22.5).lineTo(-21.9,-21.5).curveTo(-21.1,-18.8,-23.9,-17.2).curveTo(-24.9,-16.6,-25,-15.8).curveTo(-25.1,-15.3,-24.5,-14.8).curveTo(-23.9,-14.3,-22.5,-14.2).curveTo(-22.5,-14.6,-22.2,-15).curveTo(-21.9,-15.6,-21.1,-15.8).curveTo(-20.5,-15.9,-20,-15.4).curveTo(-19.3,-14.8,-19.5,-14.1).curveTo(-19.7,-13.5,-20.7,-13.2).lineTo(-20.9,-13.1).curveTo(-20.5,-12.3,-19.8,-12).curveTo(-18.7,-11.4,-16.8,-11.5).curveTo(-15.1,-11.6,-13.5,-12.2).lineTo(-13.2,-12.3).curveTo(-10,-13.3,-8.3,-13.4).curveTo(-5.4,-13.6,-3.5,-11.7).curveTo(-1.8,-10.1,-1.5,-7.6).curveTo(-1.2,-5.3,-1.9,-3.1).lineTo(-1.9,-3).lineTo(-2.4,-1.8).lineTo(0.6,-1.8).curveTo(9.3,-1.2,18.6,0.1).lineTo(29.9,0.5).lineTo(41.9,1).curveTo(42.5,1.1,42.5,1.7).curveTo(42.4,2.4,41.8,2.3).lineTo(29.8,1.8).lineTo(28.2,1.8).curveTo(37.1,3.6,41.9,5.7).curveTo(42.5,6,42.2,6.6).curveTo(42.1,7,41.6,7).closePath().moveTo(-24.2,1.5).lineTo(-29.4,2.6).curveTo(-13.9,0.4,5.1,-0.1).lineTo(-3.7,-0.5).curveTo(-14.3,-0.5,-24.2,1.5).closePath().moveTo(20,-24.2).lineTo(19.6,-24).curveTo(20.4,-23.9,20.6,-24.1).lineTo(20.6,-24.2).lineTo(20.4,-24.3).lineTo(20,-24.2).closePath().moveTo(-6.7,-30.7).curveTo(-6.4,-30.2,-5.6,-29.6).curveTo(-5,-29.2,-4.5,-29).lineTo(-4.4,-29).curveTo(-3.2,-28.5,-2.5,-28.3).lineTo(-1.6,-28.4).lineTo(-1.4,-28.8).curveTo(-1.2,-29.3,-1.6,-29.8).curveTo(-2.4,-30.9,-4.5,-30.9).curveTo(-5.5,-30.9,-6.7,-30.7).closePath().moveTo(-4.8,-38.6).lineTo(-4.7,-38).curveTo(-4.5,-38.5,-4.7,-38.9).lineTo(-4.7,-39).closePath();
-	this.shape.setTransform(0.025,0.0375);
+	this.shape.graphics.beginFill("#FF6400").beginStroke().moveTo(12.6,39.2).lineTo(12.6,28.9).lineTo(14,28.9).lineTo(14,37.9).lineTo(18.2,37.9).lineTo(18.2,39.2).closePath().moveTo(2.4,39.2).lineTo(2.4,28.9).lineTo(3.8,28.9).lineTo(3.8,37.9).lineTo(8,37.9).lineTo(8,39.2).closePath().moveTo(-4.7,39.2).lineTo(-4.7,28.9).lineTo(-3.3,28.9).lineTo(-3.3,39.2).closePath().moveTo(-11.8,39.2).lineTo(-11.8,34.8).lineTo(-16.8,34.8).lineTo(-16.8,39.2).lineTo(-18.2,39.2).lineTo(-18.2,28.9).lineTo(-16.8,28.9).lineTo(-16.8,33.5).lineTo(-11.8,33.5).lineTo(-11.8,28.9).lineTo(-10.4,28.9).lineTo(-10.4,39.2).closePath().moveTo(-17.7,21.6).curveTo(-19.2,20.1,-19.2,17.9).curveTo(-19.2,15.7,-17.7,14.1).curveTo(-16.2,12.6,-14,12.6).curveTo(-12,12.6,-10.5,14).lineTo(-11.5,14.9).curveTo(-12.6,13.9,-14,13.9).curveTo(-15.6,13.9,-16.7,15.1).curveTo(-17.8,16.3,-17.8,17.9).curveTo(-17.8,19.6,-16.7,20.7).curveTo(-15.6,21.9,-14,21.9).curveTo(-12.6,21.9,-11.7,21.1).curveTo(-10.8,20.3,-10.7,19.1).lineTo(-13.6,19.1).lineTo(-13.6,17.9).lineTo(-9.1,17.9).curveTo(-9.1,20.5,-10.5,21.9).curveTo(-11.7,23.2,-14,23.2).curveTo(-16.2,23.2,-17.7,21.6).closePath().moveTo(30,23).lineTo(30,12.7).lineTo(36.2,12.7).lineTo(36.2,14).lineTo(31.4,14).lineTo(31.4,17.3).lineTo(35.6,17.3).lineTo(35.6,18.6).lineTo(31.4,18.6).lineTo(31.4,21.7).lineTo(36.3,21.7).lineTo(36.3,23).closePath().moveTo(18.8,23).lineTo(18.8,12.7).lineTo(24.9,12.7).lineTo(24.9,14).lineTo(20.2,14).lineTo(20.2,17.3).lineTo(24.3,17.3).lineTo(24.3,18.6).lineTo(20.2,18.6).lineTo(20.2,21.7).lineTo(25,21.7).lineTo(25,23).closePath().moveTo(11.9,23).lineTo(9.3,19.2).lineTo(8,19.2).lineTo(8,23).lineTo(6.5,23).lineTo(6.5,12.7).lineTo(10.5,12.7).curveTo(12,12.7,12.9,13.7).curveTo(13.6,14.6,13.6,16).curveTo(13.6,17.2,13,18.1).curveTo(12.2,19,10.9,19.1).lineTo(13.6,23).closePath().moveTo(8,17.9).lineTo(10.4,17.9).curveTo(12.1,17.9,12.1,16).curveTo(12.1,14,10.5,14).lineTo(8,14).closePath().moveTo(-2.6,23).lineTo(-2.6,14).lineTo(-5.7,14).lineTo(-5.7,12.7).lineTo(2,12.7).lineTo(2,14).lineTo(-1.2,14).lineTo(-1.2,23).closePath().moveTo(-25.7,23).lineTo(-25.7,12.7).lineTo(-24.3,12.7).lineTo(-24.3,23).closePath().moveTo(-36.3,23).lineTo(-36.3,12.7).lineTo(-30.3,12.7).lineTo(-30.3,14).lineTo(-34.9,14).lineTo(-34.9,17.3).lineTo(-31.2,17.3).lineTo(-31.2,18.6).lineTo(-34.9,18.6).lineTo(-34.9,23).closePath().moveTo(41.4,5.6).curveTo(33.7,2.3,18.5,0.1).lineTo(13.1,-0.2).curveTo(-0.7,-0.2,-15.3,1.1).curveTo(-31.9,2.5,-41.7,5).curveTo(-42.3,5.2,-42.5,4.5).lineTo(-42.5,4.1).curveTo(-42.3,3.7,-42,3.7).curveTo(-33.3,0.6,-24.4,-1.1).curveTo(-14.3,-3.1,-4.1,-3.1).lineTo(-3.7,-3.9).curveTo(-3,-5.4,-2.9,-5.9).curveTo(-2.6,-7.6,-3,-9.2).curveTo(-3.4,-10.9,-4.5,-12).curveTo(-5.6,-13.1,-7.2,-13.3).curveTo(-8.9,-13.5,-12.3,-12.4).curveTo(-13.9,-11.8,-15,-11.6).curveTo(-17.3,-11.1,-19.2,-11.6).curveTo(-21.4,-12.2,-22.2,-14.1).lineTo(-22.3,-14.2).lineTo(-22.9,-14.2).curveTo(-25.6,-14.3,-26.3,-16.3).curveTo(-26.8,-17.6,-25.9,-18.7).curveTo(-25.5,-19.2,-24.4,-19.8).curveTo(-22.9,-20.7,-23.2,-22.1).lineTo(-23.6,-22.9).curveTo(-24.9,-25.2,-23.7,-26.1).curveTo(-22.9,-26.6,-21.7,-26.7).curveTo(-20.8,-26.8,-20.5,-27).curveTo(-19.7,-27.4,-19.3,-29.5).lineTo(-19.1,-30.2).curveTo(-18.7,-32.6,-17.5,-33.4).curveTo(-16.2,-34.2,-14,-33.2).lineTo(-13.3,-32.8).curveTo(-11.7,-32.3,-8.7,-32.9).curveTo(-8.8,-33.6,-8.7,-34.3).curveTo(-8.4,-35.6,-6.4,-37.3).lineTo(-5.5,-38.1).lineTo(-5.8,-38.6).lineTo(-5.9,-39.2).lineTo(-3.2,-39.2).lineTo(-3.5,-38.5).lineTo(-3.6,-38.2).curveTo(-2.2,-37.4,-0.5,-37.6).curveTo(0.6,-37.6,2.6,-38.5).lineTo(4.4,-39.2).lineTo(7,-39.2).lineTo(7.3,-39).curveTo(8.4,-38.2,8.4,-35.4).lineTo(8.4,-34.7).curveTo(8.4,-32.7,8.6,-31.8).curveTo(8.9,-30.3,10.1,-29.7).curveTo(11.1,-29.1,12,-29.9).lineTo(12.6,-30.6).curveTo(13.6,-31.8,14.7,-32.1).curveTo(15.7,-32.3,16.3,-31.7).curveTo(17,-31.1,17,-29.9).curveTo(16.9,-27.7,17.6,-26.8).lineTo(18.2,-26).lineTo(18.4,-26.2).curveTo(19.6,-27.3,20.9,-26.9).curveTo(21.7,-26.8,21.9,-26).curveTo(22.2,-25.3,21.7,-24.6).curveTo(21.3,-24.2,20.6,-24).curveTo(19.9,-23.8,19.4,-23.9).lineTo(18.8,-24).curveTo(18.6,-23.4,19,-22.8).curveTo(19.8,-21.9,21.5,-21.8).curveTo(24.1,-21.7,25.3,-20.1).curveTo(26.4,-18.6,26.5,-16.5).curveTo(26.5,-15.2,26,-13.9).curveTo(25.4,-12.5,24.4,-11.8).curveTo(23.1,-11,21.6,-11.8).curveTo(20.8,-12.2,20.2,-12.8).curveTo(19.4,-13.5,19,-13.7).curveTo(18.6,-13.9,18.2,-13.8).curveTo(17.8,-13.6,17.3,-12.8).curveTo(15.1,-9.9,11.1,-10.4).curveTo(10.1,-10.5,7.8,-11.7).lineTo(7.4,-11.9).curveTo(5.8,-12.7,4.7,-13).curveTo(3.7,-13.1,3.1,-12.9).curveTo(2.3,-12.6,2,-11.8).curveTo(1.7,-11.1,1.9,-10.3).curveTo(2.6,-8.4,3,-8.1).curveTo(3.5,-7.7,3.2,-7.2).curveTo(3,-6.7,2.4,-6.9).lineTo(2.4,-6.9).curveTo(1.2,-7.4,0.7,-9.3).curveTo(0.2,-10.9,0.5,-12).curveTo(0.8,-13.4,1.9,-14).curveTo(3.1,-14.8,4.8,-14.3).lineTo(5,-14.2).curveTo(5.9,-14.1,8.3,-12.9).lineTo(8.4,-12.8).curveTo(10.2,-12,11.3,-11.8).curveTo(12.8,-11.5,14.2,-12.1).curveTo(14.8,-12.3,15.7,-13.4).lineTo(16.6,-14.3).curveTo(17.1,-14.9,17.9,-15).curveTo(18.5,-15.3,19.3,-15).lineTo(19.5,-14.9).curveTo(20.3,-14.6,20.8,-14.1).lineTo(21,-13.9).lineTo(22.3,-13).curveTo(22.8,-12.7,23.3,-12.9).curveTo(24.5,-13.3,24.9,-14.9).curveTo(25.3,-16.3,24.9,-17.9).curveTo(24.4,-19.6,23.1,-20.2).curveTo(22.7,-20.4,21.5,-20.4).curveTo(20.2,-20.4,19.4,-20.8).curveTo(17.7,-21.5,17.4,-23.2).curveTo(17.3,-24,17.5,-24.8).curveTo(17.1,-25.1,16.6,-25.7).curveTo(15.5,-27.2,15.5,-28.8).lineTo(15.6,-29.6).curveTo(15.7,-30.5,15.5,-30.7).lineTo(15.3,-30.8).curveTo(14.7,-30.8,14,-30.1).lineTo(13.7,-29.7).curveTo(12.4,-28.2,11.2,-28.1).curveTo(9.8,-27.9,8.8,-28.8).curveTo(7.1,-30.3,7,-33.4).lineTo(7,-34.2).curveTo(7,-37.5,6.3,-38).curveTo(5.9,-38.2,5.3,-38).lineTo(3.3,-37.3).curveTo(1.6,-36.6,0.7,-36.3).curveTo(-0.8,-36,-2.1,-36.2).curveTo(-3.4,-36.4,-4.5,-37.1).lineTo(-5.5,-36.2).curveTo(-7.5,-34.6,-7.3,-33.3).curveTo(-4.5,-33.9,-2.6,-33.3).curveTo(-0.7,-32.8,-0.1,-31.2).curveTo(0.5,-29.5,-0.7,-28.7).curveTo(-1.4,-28.1,-2.6,-28.4).curveTo(-3.1,-28.4,-4,-28.6).curveTo(-5.1,-28.9,-6.3,-29.8).curveTo(-7.6,-30.6,-8.2,-31.7).curveTo(-11.3,-30.9,-13.1,-31.3).lineTo(-14.5,-31.9).curveTo(-15.5,-32.3,-15.9,-32.4).curveTo(-16.5,-32.5,-16.9,-32.2).curveTo(-17.5,-31.6,-17.9,-29.5).lineTo(-18.2,-28).curveTo(-18.8,-26.4,-19.6,-25.8).curveTo(-20.2,-25.4,-21.5,-25.3).lineTo(-22.2,-25.2).curveTo(-22.8,-25.1,-22.8,-25).curveTo(-22.8,-24.9,-22.4,-23.8).lineTo(-21.9,-22.8).curveTo(-21.1,-20.1,-23.9,-18.5).curveTo(-24.9,-17.9,-25,-17.1).curveTo(-25.1,-16.6,-24.5,-16.1).curveTo(-23.9,-15.6,-22.5,-15.5).curveTo(-22.5,-15.9,-22.2,-16.3).curveTo(-21.9,-16.9,-21.1,-17.1).curveTo(-20.5,-17.2,-20,-16.7).curveTo(-19.3,-16.1,-19.5,-15.4).curveTo(-19.7,-14.8,-20.7,-14.5).lineTo(-20.9,-14.4).curveTo(-20.5,-13.6,-19.8,-13.3).curveTo(-18.7,-12.7,-16.8,-12.8).curveTo(-15.1,-12.9,-13.5,-13.5).lineTo(-13.2,-13.6).curveTo(-10,-14.6,-8.3,-14.7).curveTo(-5.4,-14.9,-3.5,-13).curveTo(-1.8,-11.4,-1.5,-8.9).curveTo(-1.2,-6.6,-1.9,-4.4).lineTo(-1.9,-4.3).lineTo(-2.4,-3.1).lineTo(0.6,-3.1).curveTo(9.3,-2.5,18.6,-1.2).lineTo(29.9,-0.8).lineTo(41.9,-0.3).curveTo(42.5,-0.2,42.5,0.4).curveTo(42.4,1.1,41.8,1).lineTo(29.8,0.5).lineTo(28.2,0.5).curveTo(37.1,2.3,41.9,4.4).curveTo(42.5,4.7,42.2,5.3).curveTo(42.1,5.7,41.6,5.7).closePath().moveTo(-24.2,0.2).lineTo(-29.4,1.3).curveTo(-13.9,-0.9,5.1,-1.4).lineTo(-3.7,-1.8).curveTo(-14.3,-1.8,-24.2,0.2).closePath().moveTo(20,-25.5).lineTo(19.6,-25.3).curveTo(20.4,-25.2,20.6,-25.4).lineTo(20.6,-25.5).lineTo(20.4,-25.6).lineTo(20,-25.5).closePath().moveTo(-6.7,-32).curveTo(-6.4,-31.5,-5.6,-30.9).curveTo(-5,-30.5,-4.5,-30.3).lineTo(-4.4,-30.3).curveTo(-3.2,-29.8,-2.5,-29.6).lineTo(-1.6,-29.7).lineTo(-1.4,-30.1).curveTo(-1.2,-30.6,-1.6,-31.1).curveTo(-2.4,-32.2,-4.5,-32.2).curveTo(-5.5,-32.2,-6.7,-32).closePath();
+	this.shape.setTransform(0.025,1.325);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.beginFill("#2E2E2E").beginStroke().moveTo(4,1.3).lineTo(4.2,1.2).curveTo(5.7,0.7,6.6,1.3).closePath().moveTo(-6.4,1.3).lineTo(-6.4,1.1).curveTo(-6.7,-0,-6.3,-0.7).curveTo(-5.9,-1.4,-5,-1.3).curveTo(-4.2,-1.2,-3.9,-0.6).curveTo(-3.4,0.3,-3.6,1.3).closePath().moveTo(-5.2,0.6).lineTo(-5.1,1.2).curveTo(-4.9,0.7,-5.1,0.3).lineTo(-5.1,0.2).closePath();
+	this.shape_1.setTransform(0.4482,-39.1875);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_1},{t:this.shape}]}).wait(1));
 
 }).prototype = getMCSymbolPrototype(lib.Symbol15, new cjs.Rectangle(-42.5,-40.5,85.1,81.1), null);
 
@@ -145,119 +149,119 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-1.7,8).lineTo(-1.7,-8).lineTo(1.7,-8).lineTo(1.7,8).closePath();
+	this.shape.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8).lineTo(-1.7,-8).lineTo(1.7,-8).lineTo(1.7,8).closePath();
 	this.shape.setTransform(54.075,16.025);
 
 	this.shape_1 = new cjs.Shape();
-	this.shape_1.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-1.7,8).lineTo(-1.7,-8).lineTo(1.7,-8).lineTo(1.7,8).closePath();
+	this.shape_1.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8).lineTo(-1.7,-8).lineTo(1.7,-8).lineTo(1.7,8).closePath();
 	this.shape_1.setTransform(47.825,16.025);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.7,-2.8).lineTo(1.7,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-2,-5.3,-1.9,-6.2).curveTo(-2,-7,-1.4,-7.5).curveTo(-0.8,-8.1,-0,-8.1).curveTo(0.8,-8.1,1.3,-7.5).curveTo(2,-7,2,-6.2).curveTo(2,-5.3,1.3,-4.8).curveTo(0.8,-4.2,-0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
+	this.shape_2.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.7,-2.8).lineTo(1.7,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-2,-5.3,-1.9,-6.2).curveTo(-2,-7,-1.4,-7.5).curveTo(-0.8,-8.1,-0,-8.1).curveTo(0.8,-8.1,1.3,-7.5).curveTo(2,-7,2,-6.2).curveTo(2,-5.3,1.3,-4.8).curveTo(0.8,-4.2,-0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
 	this.shape_2.setTransform(41.6,15.875);
 
 	this.shape_3 = new cjs.Shape();
-	this.shape_3.graphics.beginFill("#2E2E2E").beginStroke().moveTo(3.1,7.8).lineTo(3.1,1.6).lineTo(-3.1,1.6).lineTo(-3.1,7.8).lineTo(-6.6,7.8).lineTo(-6.6,-7.8).lineTo(-3.1,-7.8).lineTo(-3.1,-1.7).lineTo(3.1,-1.7).lineTo(3.1,-7.8).lineTo(6.6,-7.8).lineTo(6.6,7.8).closePath();
+	this.shape_3.graphics.beginFill("#FFFFFF").beginStroke().moveTo(3.1,7.8).lineTo(3.1,1.6).lineTo(-3.1,1.6).lineTo(-3.1,7.8).lineTo(-6.6,7.8).lineTo(-6.6,-7.8).lineTo(-3.1,-7.8).lineTo(-3.1,-1.7).lineTo(3.1,-1.7).lineTo(3.1,-7.8).lineTo(6.6,-7.8).lineTo(6.6,7.8).closePath();
 	this.shape_3.setTransform(30.2,16.2);
 
 	this.shape_4 = new cjs.Shape();
-	this.shape_4.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-3.7,4.2).curveTo(-5.4,2.6,-5.5,-0).curveTo(-5.5,-2.6,-3.8,-4.2).curveTo(-2.3,-5.8,0,-5.8).curveTo(2.5,-5.8,4,-4.3).curveTo(5.4,-2.8,5.4,-0.2).lineTo(5.4,0.9).lineTo(-2.2,0.9).curveTo(-2.1,1.7,-1.5,2.3).curveTo(-0.7,3,0.2,3).curveTo(2,3,2.5,1.5).lineTo(5.3,2.3).curveTo(4.8,3.8,3.6,4.8).curveTo(2.2,5.8,0.2,5.8).curveTo(-2.1,5.8,-3.7,4.2).closePath().moveTo(2.3,-1.4).curveTo(2.2,-2,1.7,-2.5).curveTo(1.1,-3.2,0,-3.2).curveTo(-1,-3.2,-1.6,-2.5).curveTo(-2.1,-2,-2.1,-1.4).lineTo(2.3,-1.4).lineTo(2.3,-1.4).closePath();
+	this.shape_4.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,4.2).curveTo(-5.4,2.6,-5.5,-0).curveTo(-5.5,-2.6,-3.8,-4.2).curveTo(-2.3,-5.8,0,-5.8).curveTo(2.5,-5.8,4,-4.3).curveTo(5.4,-2.8,5.4,-0.2).lineTo(5.4,0.9).lineTo(-2.2,0.9).curveTo(-2.1,1.7,-1.5,2.3).curveTo(-0.7,3,0.2,3).curveTo(2,3,2.5,1.5).lineTo(5.3,2.3).curveTo(4.8,3.8,3.6,4.8).curveTo(2.2,5.8,0.2,5.8).curveTo(-2.1,5.8,-3.7,4.2).closePath().moveTo(2.3,-1.4).curveTo(2.2,-2,1.7,-2.5).curveTo(1.1,-3.2,0,-3.2).curveTo(-1,-3.2,-1.6,-2.5).curveTo(-2.1,-2,-2.1,-1.4).lineTo(2.3,-1.4).lineTo(2.3,-1.4).closePath();
 	this.shape_4.setTransform(10.4,18.55);
 
 	this.shape_5 = new cjs.Shape();
-	this.shape_5.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-3.7,4.2).curveTo(-5.4,2.6,-5.4,-0).curveTo(-5.4,-2.6,-3.8,-4.2).curveTo(-2.2,-5.8,-0,-5.8).curveTo(2.5,-5.8,4,-4.3).curveTo(5.4,-2.8,5.4,-0.2).lineTo(5.4,0.9).lineTo(-2.2,0.9).curveTo(-2.1,1.7,-1.5,2.3).curveTo(-0.7,3,0.2,3).curveTo(1.9,3,2.5,1.5).lineTo(5.3,2.3).curveTo(4.8,3.8,3.6,4.8).curveTo(2.2,5.8,0.2,5.8).curveTo(-2.2,5.8,-3.7,4.2).closePath().moveTo(2.2,-1.4).curveTo(2.2,-2,1.7,-2.5).curveTo(1.1,-3.2,0,-3.2).curveTo(-0.9,-3.2,-1.6,-2.5).curveTo(-2.1,-2,-2.1,-1.4).lineTo(2.2,-1.4).lineTo(2.2,-1.4).closePath();
+	this.shape_5.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,4.2).curveTo(-5.4,2.6,-5.4,-0).curveTo(-5.4,-2.6,-3.8,-4.2).curveTo(-2.2,-5.8,-0,-5.8).curveTo(2.5,-5.8,4,-4.3).curveTo(5.4,-2.8,5.4,-0.2).lineTo(5.4,0.9).lineTo(-2.2,0.9).curveTo(-2.1,1.7,-1.5,2.3).curveTo(-0.7,3,0.2,3).curveTo(1.9,3,2.5,1.5).lineTo(5.3,2.3).curveTo(4.8,3.8,3.6,4.8).curveTo(2.2,5.8,0.2,5.8).curveTo(-2.2,5.8,-3.7,4.2).closePath().moveTo(2.2,-1.4).curveTo(2.2,-2,1.7,-2.5).curveTo(1.1,-3.2,0,-3.2).curveTo(-0.9,-3.2,-1.6,-2.5).curveTo(-2.1,-2,-2.1,-1.4).lineTo(2.2,-1.4).lineTo(2.2,-1.4).closePath();
 	this.shape_5.setTransform(-1.85,18.55);
 
 	this.shape_6 = new cjs.Shape();
-	this.shape_6.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-3.5,5.5).lineTo(-3.5,-5.4).lineTo(-0.2,-5.4).lineTo(-0.2,-3.9).curveTo(0.5,-5.5,2.6,-5.5).lineTo(3.5,-5.4).lineTo(3.5,-2.1).lineTo(2.4,-2.2).curveTo(1.3,-2.2,0.7,-1.6).curveTo(-0.1,-0.8,-0.1,0.8).lineTo(-0.1,5.5).closePath();
+	this.shape_6.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.5,5.5).lineTo(-3.5,-5.4).lineTo(-0.2,-5.4).lineTo(-0.2,-3.9).curveTo(0.5,-5.5,2.6,-5.5).lineTo(3.5,-5.4).lineTo(3.5,-2.1).lineTo(2.4,-2.2).curveTo(1.3,-2.2,0.7,-1.6).curveTo(-0.1,-0.8,-0.1,0.8).lineTo(-0.1,5.5).closePath();
 	this.shape_6.setTransform(-11.925,18.475);
 
 	this.shape_7 = new cjs.Shape();
-	this.shape_7.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
+	this.shape_7.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
 	this.shape_7.setTransform(-21.325,17.025);
 
 	this.shape_8 = new cjs.Shape();
-	this.shape_8.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-4,6.6).curveTo(-5.4,5.5,-5.6,3.9).lineTo(-2.7,3.1).curveTo(-2.6,3.9,-1.9,4.4).curveTo(-1.3,4.9,-0.3,4.9).curveTo(2.4,4.9,2.4,2.1).lineTo(2.4,1.6).curveTo(1.5,2.9,-0.5,2.9).curveTo(-2.8,2.9,-4.2,1.3).curveTo(-5.6,-0.2,-5.6,-2.5).curveTo(-5.6,-4.7,-4.2,-6.2).curveTo(-2.8,-7.8,-0.5,-7.8).curveTo(1.7,-7.8,2.5,-6.4).lineTo(2.5,-7.6).lineTo(5.6,-7.6).lineTo(5.6,2).curveTo(5.6,4.5,4.3,6.1).curveTo(2.7,7.8,-0.2,7.8).curveTo(-2.4,7.8,-4,6.6).closePath().moveTo(-1.6,-4.2).curveTo(-2.3,-3.5,-2.3,-2.5).curveTo(-2.3,-1.4,-1.6,-0.7).curveTo(-1,-0,0,-0).curveTo(1.1,-0,1.7,-0.7).curveTo(2.4,-1.3,2.4,-2.5).curveTo(2.4,-3.5,1.7,-4.2).curveTo(1,-4.9,0,-4.9).curveTo(-1,-4.9,-1.6,-4.2).closePath();
+	this.shape_8.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-4,6.6).curveTo(-5.4,5.5,-5.6,3.9).lineTo(-2.7,3.1).curveTo(-2.6,3.9,-1.9,4.4).curveTo(-1.3,4.9,-0.3,4.9).curveTo(2.4,4.9,2.4,2.1).lineTo(2.4,1.6).curveTo(1.5,2.9,-0.5,2.9).curveTo(-2.8,2.9,-4.2,1.3).curveTo(-5.6,-0.2,-5.6,-2.5).curveTo(-5.6,-4.7,-4.2,-6.2).curveTo(-2.8,-7.8,-0.5,-7.8).curveTo(1.7,-7.8,2.5,-6.4).lineTo(2.5,-7.6).lineTo(5.6,-7.6).lineTo(5.6,2).curveTo(5.6,4.5,4.3,6.1).curveTo(2.7,7.8,-0.2,7.8).curveTo(-2.4,7.8,-4,6.6).closePath().moveTo(-1.6,-4.2).curveTo(-2.3,-3.5,-2.3,-2.5).curveTo(-2.3,-1.4,-1.6,-0.7).curveTo(-1,-0,0,-0).curveTo(1.1,-0,1.7,-0.7).curveTo(2.4,-1.3,2.4,-2.5).curveTo(2.4,-3.5,1.7,-4.2).curveTo(1,-4.9,0,-4.9).curveTo(-1,-4.9,-1.6,-4.2).closePath();
 	this.shape_8.setTransform(-32.25,20.675);
 
 	this.shape_9 = new cjs.Shape();
-	this.shape_9.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.6,-2.8).lineTo(1.6,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-1.9,-5.3,-2,-6.2).curveTo(-1.9,-7,-1.4,-7.5).curveTo(-0.8,-8.1,0,-8.1).curveTo(0.8,-8.1,1.4,-7.5).curveTo(1.9,-7,1.9,-6.2).curveTo(1.9,-5.3,1.4,-4.8).curveTo(0.8,-4.2,0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
+	this.shape_9.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.6,-2.8).lineTo(1.6,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-1.9,-5.3,-2,-6.2).curveTo(-1.9,-7,-1.4,-7.5).curveTo(-0.8,-8.1,0,-8.1).curveTo(0.8,-8.1,1.4,-7.5).curveTo(1.9,-7,1.9,-6.2).curveTo(1.9,-5.3,1.4,-4.8).curveTo(0.8,-4.2,0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
 	this.shape_9.setTransform(-41.7,15.875);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.beginFill("#2E2E2E").beginStroke().moveTo(-5,7.8).lineTo(-5,-7.8).lineTo(5,-7.8).lineTo(5,-4.5).lineTo(-1.6,-4.5).lineTo(-1.6,-1.2).lineTo(4.2,-1.2).lineTo(4.2,2).lineTo(-1.5,2).lineTo(-1.5,7.8).closePath();
+	this.shape_10.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-5,7.8).lineTo(-5,-7.8).lineTo(5,-7.8).lineTo(5,-4.5).lineTo(-1.6,-4.5).lineTo(-1.6,-1.2).lineTo(4.2,-1.2).lineTo(4.2,2).lineTo(-1.5,2).lineTo(-1.5,7.8).closePath();
 	this.shape_10.setTransform(-50.575,16.2);
 
 	this.shape_11 = new cjs.Shape();
-	this.shape_11.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
+	this.shape_11.graphics.beginFill("#FF6400").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
 	this.shape_11.setTransform(40.375,-8.825);
 
 	this.shape_12 = new cjs.Shape();
-	this.shape_12.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-4,4.8).curveTo(-5,3.8,-5,2.5).curveTo(-5,1.1,-4.1,0.2).curveTo(-3.2,-0.6,-1.7,-0.8).lineTo(0.8,-1.2).curveTo(1.6,-1.4,1.6,-2).curveTo(1.6,-2.5,1.2,-2.8).curveTo(0.8,-3.2,-0,-3.2).curveTo(-0.8,-3.2,-1.4,-2.7).curveTo(-1.8,-2.2,-1.8,-1.6).lineTo(-4.8,-2.2).curveTo(-4.7,-3.5,-3.5,-4.6).curveTo(-2.2,-5.8,0.1,-5.8).curveTo(2.6,-5.8,3.8,-4.5).curveTo(4.9,-3.4,4.8,-1.6).lineTo(4.8,3.8).curveTo(4.9,4.8,5,5.5).lineTo(2,5.5).lineTo(1.9,4.2).curveTo(0.9,5.8,-1.2,5.8).curveTo(-3,5.8,-4,4.8).closePath().moveTo(-0.5,1).curveTo(-1.7,1.2,-1.7,2.2).curveTo(-1.7,3.4,-0.4,3.4).curveTo(1.6,3.4,1.6,1.2).lineTo(1.6,0.7).closePath();
+	this.shape_12.graphics.beginFill("#FF6400").beginStroke().moveTo(-4,4.8).curveTo(-5,3.8,-5,2.5).curveTo(-5,1.1,-4.1,0.2).curveTo(-3.2,-0.6,-1.7,-0.8).lineTo(0.8,-1.2).curveTo(1.6,-1.4,1.6,-2).curveTo(1.6,-2.5,1.2,-2.8).curveTo(0.8,-3.2,-0,-3.2).curveTo(-0.8,-3.2,-1.4,-2.7).curveTo(-1.8,-2.2,-1.8,-1.6).lineTo(-4.8,-2.2).curveTo(-4.7,-3.5,-3.5,-4.6).curveTo(-2.2,-5.8,0.1,-5.8).curveTo(2.6,-5.8,3.8,-4.5).curveTo(4.9,-3.4,4.8,-1.6).lineTo(4.8,3.8).curveTo(4.9,4.8,5,5.5).lineTo(2,5.5).lineTo(1.9,4.2).curveTo(0.9,5.8,-1.2,5.8).curveTo(-3,5.8,-4,4.8).closePath().moveTo(-0.5,1).curveTo(-1.7,1.2,-1.7,2.2).curveTo(-1.7,3.4,-0.4,3.4).curveTo(1.6,3.4,1.6,1.2).lineTo(1.6,0.7).closePath();
 	this.shape_12.setTransform(30.25,-7.325);
 
 	this.shape_13 = new cjs.Shape();
-	this.shape_13.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.8,4.2).curveTo(-5.5,2.6,-5.5,-0.1).curveTo(-5.5,-2.6,-3.8,-4.2).curveTo(-2.3,-5.8,0,-5.8).curveTo(2.6,-5.8,4,-4.3).curveTo(5.4,-2.8,5.4,-0.2).lineTo(5.4,0.8).lineTo(-2.2,0.8).curveTo(-2.2,1.8,-1.4,2.3).curveTo(-0.7,2.9,0.3,3).curveTo(1.9,3,2.5,1.5).lineTo(5.2,2.3).curveTo(4.9,3.8,3.6,4.8).curveTo(2.2,5.8,0.3,5.8).curveTo(-2.2,5.8,-3.8,4.2).closePath().moveTo(2.3,-1.3).curveTo(2.2,-2.1,1.7,-2.5).curveTo(1.1,-3.2,0,-3.2).curveTo(-0.9,-3.2,-1.5,-2.5).curveTo(-2.1,-2.1,-2.1,-1.3).lineTo(2.3,-1.3).lineTo(2.3,-1.3).closePath();
+	this.shape_13.graphics.beginFill("#FF6400").beginStroke().moveTo(-3.8,4.2).curveTo(-5.5,2.6,-5.5,-0.1).curveTo(-5.5,-2.6,-3.8,-4.2).curveTo(-2.3,-5.8,0,-5.8).curveTo(2.6,-5.8,4,-4.3).curveTo(5.4,-2.8,5.4,-0.2).lineTo(5.4,0.8).lineTo(-2.2,0.8).curveTo(-2.2,1.8,-1.4,2.3).curveTo(-0.7,2.9,0.3,3).curveTo(1.9,3,2.5,1.5).lineTo(5.2,2.3).curveTo(4.9,3.8,3.6,4.8).curveTo(2.2,5.8,0.3,5.8).curveTo(-2.2,5.8,-3.8,4.2).closePath().moveTo(2.3,-1.3).curveTo(2.2,-2.1,1.7,-2.5).curveTo(1.1,-3.2,0,-3.2).curveTo(-0.9,-3.2,-1.5,-2.5).curveTo(-2.1,-2.1,-2.1,-1.3).lineTo(2.3,-1.3).lineTo(2.3,-1.3).closePath();
 	this.shape_13.setTransform(12.95,-7.3);
 
 	this.shape_14 = new cjs.Shape();
-	this.shape_14.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,5.5).lineTo(-6,-5.5).lineTo(-2.4,-5.5).lineTo(0.2,1.3).lineTo(2.5,-5.5).lineTo(6,-5.5).lineTo(1.9,5.5).closePath();
+	this.shape_14.graphics.beginFill("#FF6400").beginStroke().moveTo(-1.5,5.5).lineTo(-6,-5.5).lineTo(-2.4,-5.5).lineTo(0.2,1.3).lineTo(2.5,-5.5).lineTo(6,-5.5).lineTo(1.9,5.5).closePath();
 	this.shape_14.setTransform(0.575,-7.325);
 
 	this.shape_15 = new cjs.Shape();
-	this.shape_15.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.6,-2.8).lineTo(1.6,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-1.9,-5.3,-2,-6.2).curveTo(-1.9,-7,-1.4,-7.5).curveTo(-0.8,-8.1,0,-8.1).curveTo(0.8,-8.1,1.4,-7.5).curveTo(1.9,-7,1.9,-6.2).curveTo(1.9,-5.3,1.4,-4.8).curveTo(0.8,-4.2,0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
+	this.shape_15.graphics.beginFill("#FF6400").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.6,-2.8).lineTo(1.6,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-1.9,-5.3,-2,-6.2).curveTo(-1.9,-7,-1.4,-7.5).curveTo(-0.8,-8.1,0,-8.1).curveTo(0.8,-8.1,1.4,-7.5).curveTo(1.9,-7,1.9,-6.2).curveTo(1.9,-5.3,1.4,-4.8).curveTo(0.8,-4.2,0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
 	this.shape_15.setTransform(-8.75,-9.975);
 
 	this.shape_16 = new cjs.Shape();
-	this.shape_16.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8).lineTo(-1.7,-8).lineTo(1.7,-8).lineTo(1.7,8).closePath();
+	this.shape_16.graphics.beginFill("#FF6400").beginStroke().moveTo(-1.7,8).lineTo(-1.7,-8).lineTo(1.7,-8).lineTo(1.7,8).closePath();
 	this.shape_16.setTransform(-15.025,-9.825);
 
 	this.shape_17 = new cjs.Shape();
-	this.shape_17.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-4.1,4.1).curveTo(-5.8,2.5,-5.8,-0.1).curveTo(-5.8,-2.6,-4.1,-4.2).curveTo(-2.5,-5.8,0,-5.8).curveTo(2.4,-5.8,4.1,-4.2).curveTo(5.8,-2.6,5.8,-0.1).curveTo(5.8,2.5,4.1,4.1).curveTo(2.4,5.8,0,5.8).curveTo(-2.4,5.8,-4.1,4.1).closePath().moveTo(-1.7,-2.1).curveTo(-2.5,-1.3,-2.5,-0.1).curveTo(-2.5,1.3,-1.7,2).curveTo(-1,2.7,0,2.7).curveTo(1,2.7,1.7,2.1).curveTo(2.4,1.3,2.5,-0.1).curveTo(2.4,-1.3,1.7,-2.1).curveTo(1,-2.7,0,-2.8).curveTo(-1.1,-2.7,-1.7,-2.1).closePath();
+	this.shape_17.graphics.beginFill("#FF6400").beginStroke().moveTo(-4.1,4.1).curveTo(-5.8,2.5,-5.8,-0.1).curveTo(-5.8,-2.6,-4.1,-4.2).curveTo(-2.5,-5.8,0,-5.8).curveTo(2.4,-5.8,4.1,-4.2).curveTo(5.8,-2.6,5.8,-0.1).curveTo(5.8,2.5,4.1,4.1).curveTo(2.4,5.8,0,5.8).curveTo(-2.4,5.8,-4.1,4.1).closePath().moveTo(-1.7,-2.1).curveTo(-2.5,-1.3,-2.5,-0.1).curveTo(-2.5,1.3,-1.7,2).curveTo(-1,2.7,0,2.7).curveTo(1,2.7,1.7,2.1).curveTo(2.4,1.3,2.5,-0.1).curveTo(2.4,-1.3,1.7,-2.1).curveTo(1,-2.7,0,-2.8).curveTo(-1.1,-2.7,-1.7,-2.1).closePath();
 	this.shape_17.setTransform(-30,-7.3);
 
 	this.shape_18 = new cjs.Shape();
-	this.shape_18.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
+	this.shape_18.graphics.beginFill("#FF6400").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
 	this.shape_18.setTransform(-40.975,-8.825);
 
 	this.shape_19 = new cjs.Shape();
-	this.shape_19.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
+	this.shape_19.graphics.beginFill("#FF6400").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
 	this.shape_19.setTransform(51.475,-34.675);
 
 	this.shape_20 = new cjs.Shape();
-	this.shape_20.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,4.5).curveTo(-4.4,3.6,-4.5,2.4).lineTo(-1.7,1.8).curveTo(-1.6,2.5,-1.2,2.8).curveTo(-0.7,3.3,0,3.3).curveTo(1.4,3.3,1.4,2.4).curveTo(1.4,1.7,0.3,1.5).lineTo(-1,1.2).curveTo(-4.3,0.5,-4.3,-2.2).curveTo(-4.3,-3.7,-3,-4.7).curveTo(-1.8,-5.8,-0.1,-5.8).curveTo(2.1,-5.8,3.3,-4.7).curveTo(4.3,-3.8,4.4,-2.6).lineTo(1.6,-2).curveTo(1.4,-3.4,0,-3.4).curveTo(-0.5,-3.4,-0.9,-3.1).curveTo(-1.2,-2.9,-1.2,-2.5).curveTo(-1.2,-1.8,-0.3,-1.7).lineTo(1.1,-1.3).curveTo(2.8,-1,3.6,-0.1).curveTo(4.5,0.9,4.5,2.1).curveTo(4.5,3.6,3.4,4.6).curveTo(2.2,5.8,0.1,5.8).curveTo(-2.1,5.8,-3.4,4.5).closePath();
+	this.shape_20.graphics.beginFill("#FF6400").beginStroke().moveTo(-3.4,4.5).curveTo(-4.4,3.6,-4.5,2.4).lineTo(-1.7,1.8).curveTo(-1.6,2.5,-1.2,2.8).curveTo(-0.7,3.3,0,3.3).curveTo(1.4,3.3,1.4,2.4).curveTo(1.4,1.7,0.3,1.5).lineTo(-1,1.2).curveTo(-4.3,0.5,-4.3,-2.2).curveTo(-4.3,-3.7,-3,-4.7).curveTo(-1.8,-5.8,-0.1,-5.8).curveTo(2.1,-5.8,3.3,-4.7).curveTo(4.3,-3.8,4.4,-2.6).lineTo(1.6,-2).curveTo(1.4,-3.4,0,-3.4).curveTo(-0.5,-3.4,-0.9,-3.1).curveTo(-1.2,-2.9,-1.2,-2.5).curveTo(-1.2,-1.8,-0.3,-1.7).lineTo(1.1,-1.3).curveTo(2.8,-1,3.6,-0.1).curveTo(4.5,0.9,4.5,2.1).curveTo(4.5,3.6,3.4,4.6).curveTo(2.2,5.8,0.1,5.8).curveTo(-2.1,5.8,-3.4,4.5).closePath();
 	this.shape_20.setTransform(42.35,-33.15);
 
 	this.shape_21 = new cjs.Shape();
-	this.shape_21.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.5,5.5).lineTo(-3.5,-5.4).lineTo(-0.2,-5.4).lineTo(-0.2,-3.9).curveTo(0.5,-5.5,2.6,-5.5).lineTo(3.5,-5.4).lineTo(3.5,-2.1).lineTo(2.4,-2.2).curveTo(1.3,-2.2,0.7,-1.6).curveTo(-0.1,-0.8,-0.1,0.8).lineTo(-0.1,5.5).closePath();
+	this.shape_21.graphics.beginFill("#FF6400").beginStroke().moveTo(-3.5,5.5).lineTo(-3.5,-5.4).lineTo(-0.2,-5.4).lineTo(-0.2,-3.9).curveTo(0.5,-5.5,2.6,-5.5).lineTo(3.5,-5.4).lineTo(3.5,-2.1).lineTo(2.4,-2.2).curveTo(1.3,-2.2,0.7,-1.6).curveTo(-0.1,-0.8,-0.1,0.8).lineTo(-0.1,5.5).closePath();
 	this.shape_21.setTransform(33.375,-33.225);
 
 	this.shape_22 = new cjs.Shape();
-	this.shape_22.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.6,-2.8).lineTo(1.6,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-1.9,-5.3,-2,-6.2).curveTo(-1.9,-7,-1.4,-7.5).curveTo(-0.8,-8.1,0,-8.1).curveTo(0.8,-8.1,1.4,-7.5).curveTo(1.9,-7,1.9,-6.2).curveTo(1.9,-5.3,1.4,-4.8).curveTo(0.8,-4.2,0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
+	this.shape_22.graphics.beginFill("#FF6400").beginStroke().moveTo(-1.7,8.1).lineTo(-1.7,-2.8).lineTo(1.6,-2.8).lineTo(1.6,8.1).closePath().moveTo(-1.4,-4.8).curveTo(-1.9,-5.3,-2,-6.2).curveTo(-1.9,-7,-1.4,-7.5).curveTo(-0.8,-8.1,0,-8.1).curveTo(0.8,-8.1,1.4,-7.5).curveTo(1.9,-7,1.9,-6.2).curveTo(1.9,-5.3,1.4,-4.8).curveTo(0.8,-4.2,0,-4.2).curveTo(-0.8,-4.2,-1.4,-4.8).closePath();
 	this.shape_22.setTransform(25.35,-35.825);
 
 	this.shape_23 = new cjs.Shape();
-	this.shape_23.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-2,8).lineTo(-2,-0.1).lineTo(-3.8,-0.1).lineTo(-3.8,-2.9).lineTo(-2,-2.9).lineTo(-2,-3.9).curveTo(-2,-5.7,-1,-6.9).curveTo(0.2,-8.1,2.2,-8.1).curveTo(3.2,-8.1,3.7,-7.8).lineTo(3.7,-5.1).lineTo(2.7,-5.2).curveTo(1.3,-5.2,1.4,-3.7).lineTo(1.4,-2.9).lineTo(3.7,-2.9).lineTo(3.7,-0.1).lineTo(1.4,-0.1).lineTo(1.4,8).closePath();
+	this.shape_23.graphics.beginFill("#FF6400").beginStroke().moveTo(-2,8).lineTo(-2,-0.1).lineTo(-3.8,-0.1).lineTo(-3.8,-2.9).lineTo(-2,-2.9).lineTo(-2,-3.9).curveTo(-2,-5.7,-1,-6.9).curveTo(0.2,-8.1,2.2,-8.1).curveTo(3.2,-8.1,3.7,-7.8).lineTo(3.7,-5.1).lineTo(2.7,-5.2).curveTo(1.3,-5.2,1.4,-3.7).lineTo(1.4,-2.9).lineTo(3.7,-2.9).lineTo(3.7,-0.1).lineTo(1.4,-0.1).lineTo(1.4,8).closePath();
 	this.shape_23.setTransform(18.25,-35.75);
 
 	this.shape_24 = new cjs.Shape();
-	this.shape_24.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,4.3).curveTo(-5.4,2.6,-5.5,-0.1).curveTo(-5.5,-2.6,-3.8,-4.3).curveTo(-2.3,-5.8,0,-5.8).curveTo(2.5,-5.8,4,-4.4).curveTo(5.4,-2.9,5.4,-0.2).lineTo(5.4,0.8).lineTo(-2.2,0.8).curveTo(-2.1,1.7,-1.5,2.4).curveTo(-0.7,2.9,0.2,2.9).curveTo(2,2.9,2.5,1.5).lineTo(5.3,2.3).curveTo(4.8,3.8,3.6,4.7).curveTo(2.2,5.8,0.2,5.8).curveTo(-2.1,5.8,-3.7,4.3).closePath().moveTo(2.3,-1.3).curveTo(2.2,-2,1.7,-2.6).curveTo(1.1,-3.2,0,-3.2).curveTo(-1,-3.2,-1.6,-2.6).curveTo(-2.1,-2,-2.1,-1.3).lineTo(2.3,-1.3).lineTo(2.3,-1.3).closePath();
+	this.shape_24.graphics.beginFill("#FF6400").beginStroke().moveTo(-3.7,4.3).curveTo(-5.4,2.6,-5.5,-0.1).curveTo(-5.5,-2.6,-3.8,-4.3).curveTo(-2.3,-5.8,0,-5.8).curveTo(2.5,-5.8,4,-4.4).curveTo(5.4,-2.9,5.4,-0.2).lineTo(5.4,0.8).lineTo(-2.2,0.8).curveTo(-2.1,1.7,-1.5,2.4).curveTo(-0.7,2.9,0.2,2.9).curveTo(2,2.9,2.5,1.5).lineTo(5.3,2.3).curveTo(4.8,3.8,3.6,4.7).curveTo(2.2,5.8,0.2,5.8).curveTo(-2.1,5.8,-3.7,4.3).closePath().moveTo(2.3,-1.3).curveTo(2.2,-2,1.7,-2.6).curveTo(1.1,-3.2,0,-3.2).curveTo(-1,-3.2,-1.6,-2.6).curveTo(-2.1,-2,-2.1,-1.3).lineTo(2.3,-1.3).lineTo(2.3,-1.3).closePath();
 	this.shape_24.setTransform(2.75,-33.15);
 
 	this.shape_25 = new cjs.Shape();
-	this.shape_25.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.8,8).lineTo(1.8,1.7).curveTo(1.8,-0.2,0,-0.2).curveTo(-0.8,-0.2,-1.2,0.3).curveTo(-1.8,0.8,-1.8,1.6).lineTo(-1.8,8).lineTo(-5.2,8).lineTo(-5.2,-8).lineTo(-1.8,-8).lineTo(-1.8,-2.3).curveTo(-0.8,-3.2,1,-3.2).curveTo(3,-3.2,4.2,-2).curveTo(5.1,-0.8,5.2,1.1).lineTo(5.2,8).closePath();
+	this.shape_25.graphics.beginFill("#FF6400").beginStroke().moveTo(1.8,8).lineTo(1.8,1.7).curveTo(1.8,-0.2,0,-0.2).curveTo(-0.8,-0.2,-1.2,0.3).curveTo(-1.8,0.8,-1.8,1.6).lineTo(-1.8,8).lineTo(-5.2,8).lineTo(-5.2,-8).lineTo(-1.8,-8).lineTo(-1.8,-2.3).curveTo(-0.8,-3.2,1,-3.2).curveTo(3,-3.2,4.2,-2).curveTo(5.1,-0.8,5.2,1.1).lineTo(5.2,8).closePath();
 	this.shape_25.setTransform(-9.85,-35.675);
 
 	this.shape_26 = new cjs.Shape();
-	this.shape_26.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
+	this.shape_26.graphics.beginFill("#FF6400").beginStroke().moveTo(-0.8,6.2).curveTo(-1.7,5.3,-1.7,3.7).lineTo(-1.7,-1).lineTo(-3.7,-1).lineTo(-3.7,-4).lineTo(-3.1,-4).curveTo(-1.4,-4,-1.4,-5.7).lineTo(-1.4,-7.2).lineTo(1.6,-7.2).lineTo(1.6,-4).lineTo(3.7,-4).lineTo(3.7,-1).lineTo(1.6,-1).lineTo(1.6,3.1).curveTo(1.6,4.2,2.8,4.2).lineTo(3.6,4.1).lineTo(3.6,6.9).curveTo(3,7.2,1.9,7.2).curveTo(0.2,7.2,-0.8,6.2).closePath();
 	this.shape_26.setTransform(-20.925,-34.675);
 
 	this.shape_27 = new cjs.Shape();
-	this.shape_27.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.8,4.3).curveTo(-5.4,2.6,-5.4,-0.1).curveTo(-5.4,-2.6,-3.8,-4.3).curveTo(-2.3,-5.8,-0,-5.8).curveTo(2.5,-5.8,4,-4.4).curveTo(5.5,-2.9,5.5,-0.2).lineTo(5.4,0.8).lineTo(-2.2,0.8).curveTo(-2.2,1.7,-1.5,2.4).curveTo(-0.7,2.9,0.3,2.9).curveTo(1.9,2.9,2.5,1.5).lineTo(5.2,2.3).curveTo(4.8,3.8,3.6,4.7).curveTo(2.2,5.8,0.3,5.8).curveTo(-2.1,5.8,-3.8,4.3).closePath().moveTo(2.2,-1.3).curveTo(2.2,-2,1.7,-2.6).curveTo(1.1,-3.2,0.1,-3.2).curveTo(-1,-3.2,-1.5,-2.6).curveTo(-2.1,-2,-2.2,-1.3).lineTo(2.2,-1.3).lineTo(2.2,-1.3).closePath();
+	this.shape_27.graphics.beginFill("#FF6400").beginStroke().moveTo(-3.8,4.3).curveTo(-5.4,2.6,-5.4,-0.1).curveTo(-5.4,-2.6,-3.8,-4.3).curveTo(-2.3,-5.8,-0,-5.8).curveTo(2.5,-5.8,4,-4.4).curveTo(5.5,-2.9,5.5,-0.2).lineTo(5.4,0.8).lineTo(-2.2,0.8).curveTo(-2.2,1.7,-1.5,2.4).curveTo(-0.7,2.9,0.3,2.9).curveTo(1.9,2.9,2.5,1.5).lineTo(5.2,2.3).curveTo(4.8,3.8,3.6,4.7).curveTo(2.2,5.8,0.3,5.8).curveTo(-2.1,5.8,-3.8,4.3).closePath().moveTo(2.2,-1.3).curveTo(2.2,-2,1.7,-2.6).curveTo(1.1,-3.2,0.1,-3.2).curveTo(-1,-3.2,-1.5,-2.6).curveTo(-2.1,-2,-2.2,-1.3).lineTo(2.2,-1.3).lineTo(2.2,-1.3).closePath();
 	this.shape_27.setTransform(-36.35,-33.15);
 
 	this.shape_28 = new cjs.Shape();
-	this.shape_28.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-5.6,7.8).lineTo(-5.6,-7.8).lineTo(0.2,-7.8).curveTo(2.5,-7.8,3.8,-6.6).curveTo(5.1,-5.5,5.1,-3.6).curveTo(5.1,-2.5,4.4,-1.5).curveTo(3.8,-0.6,2.8,-0.3).curveTo(4,-0,4.7,0.9).curveTo(5.6,1.9,5.6,3.4).curveTo(5.6,5.3,4.3,6.5).curveTo(2.9,7.8,0.7,7.8).closePath().moveTo(-2.2,5).lineTo(-0,5).curveTo(1,4.9,1.6,4.4).curveTo(2.1,4,2.1,3.2).curveTo(2.1,2.3,1.6,1.8).curveTo(1,1.3,-0,1.3).lineTo(-2.2,1.3).closePath().moveTo(-2.2,-1.6).lineTo(-0.3,-1.6).curveTo(0.6,-1.5,1.2,-2).curveTo(1.7,-2.4,1.7,-3.3).curveTo(1.7,-4.9,-0.3,-4.9).lineTo(-2.2,-4.9).closePath();
+	this.shape_28.graphics.beginFill("#FF6400").beginStroke().moveTo(-5.6,7.8).lineTo(-5.6,-7.8).lineTo(0.2,-7.8).curveTo(2.5,-7.8,3.8,-6.6).curveTo(5.1,-5.5,5.1,-3.6).curveTo(5.1,-2.5,4.4,-1.5).curveTo(3.8,-0.6,2.8,-0.3).curveTo(4,-0,4.7,0.9).curveTo(5.6,1.9,5.6,3.4).curveTo(5.6,5.3,4.3,6.5).curveTo(2.9,7.8,0.7,7.8).closePath().moveTo(-2.2,5).lineTo(-0,5).curveTo(1,4.9,1.6,4.4).curveTo(2.1,4,2.1,3.2).curveTo(2.1,2.3,1.6,1.8).curveTo(1,1.3,-0,1.3).lineTo(-2.2,1.3).closePath().moveTo(-2.2,-1.6).lineTo(-0.3,-1.6).curveTo(0.6,-1.5,1.2,-2).curveTo(1.7,-2.4,1.7,-3.3).curveTo(1.7,-4.9,-0.3,-4.9).lineTo(-2.2,-4.9).closePath();
 	this.shape_28.setTransform(-48.775,-35.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_28},{t:this.shape_27},{t:this.shape_26},{t:this.shape_25},{t:this.shape_24},{t:this.shape_23},{t:this.shape_22},{t:this.shape_21},{t:this.shape_20},{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
@@ -270,92 +274,148 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,5.1).lineTo(1.6,-0.6).curveTo(1.6,-2.3,-0,-2.4).curveTo(-0.7,-2.3,-1.2,-1.8).curveTo(-1.6,-1.4,-1.6,-0.6).lineTo(-1.6,5.1).lineTo(-4.7,5.1).lineTo(-4.7,-4.8).lineTo(-1.7,-4.8).lineTo(-1.7,-3.7).curveTo(-1.4,-4.3,-0.5,-4.7).curveTo(0.2,-5.1,1,-5.1).curveTo(2.8,-5.1,3.8,-3.9).curveTo(4.7,-2.9,4.7,-1.1).lineTo(4.7,5.1).closePath();
-	this.shape.setTransform(54.225,10.4);
+	this.shape.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.1,5).lineTo(-3.1,-4.9).lineTo(-0.2,-4.9).lineTo(-0.2,-3.6).curveTo(0.5,-5,2.3,-5).lineTo(3.2,-4.9).lineTo(3.2,-1.9).lineTo(2.2,-2).curveTo(1.2,-2,0.6,-1.4).curveTo(-0.1,-0.7,-0.1,0.7).lineTo(-0.1,5).closePath();
+	this.shape.setTransform(46.25,43.575);
 
 	this.shape_1 = new cjs.Shape();
-	this.shape_1.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,3.8).curveTo(-5.3,2.3,-5.3,-0).curveTo(-5.3,-2.3,-3.7,-3.8).curveTo(-2.3,-5.3,0,-5.3).curveTo(2.2,-5.3,3.7,-3.8).curveTo(5.3,-2.3,5.3,-0).curveTo(5.3,2.3,3.7,3.8).curveTo(2.2,5.3,0,5.3).curveTo(-2.3,5.3,-3.7,3.8).closePath().moveTo(-1.6,-1.9).curveTo(-2.2,-1.2,-2.2,-0).curveTo(-2.2,1.2,-1.6,1.9).curveTo(-0.9,2.5,0,2.5).curveTo(0.9,2.5,1.6,1.9).curveTo(2.2,1.2,2.3,-0).curveTo(2.2,-1.2,1.6,-1.9).curveTo(0.9,-2.5,0,-2.5).curveTo(-0.9,-2.5,-1.6,-1.9).closePath();
-	this.shape_1.setTransform(42.35,10.525);
+	this.shape_1.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,3.9).curveTo(-4.7,2.9,-4.7,1.2).lineTo(-4.7,-5.1).lineTo(-1.7,-5.1).lineTo(-1.7,0.6).curveTo(-1.7,1.3,-1.3,1.8).curveTo(-0.9,2.3,-0.1,2.3).curveTo(0.7,2.3,1.1,1.8).curveTo(1.6,1.3,1.6,0.6).lineTo(1.6,-5.1).lineTo(4.6,-5.1).lineTo(4.6,3.1).lineTo(4.7,4.9).lineTo(1.8,4.9).lineTo(1.7,3.9).curveTo(1,5.1,-1,5.1).curveTo(-2.7,5.1,-3.7,3.9).closePath();
+	this.shape_1.setTransform(35.825,43.725);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.8,3.8).curveTo(-5.3,2.3,-5.3,-0).curveTo(-5.3,-2.3,-3.8,-3.8).curveTo(-2.3,-5.3,0,-5.3).curveTo(2.3,-5.3,3.8,-3.8).curveTo(5.3,-2.3,5.3,-0).curveTo(5.3,2.3,3.8,3.8).curveTo(2.3,5.3,0,5.3).curveTo(-2.3,5.3,-3.8,3.8).closePath().moveTo(-1.5,-1.9).curveTo(-2.3,-1.2,-2.2,-0).curveTo(-2.3,1.2,-1.5,1.9).curveTo(-0.9,2.5,0,2.5).curveTo(1,2.5,1.5,1.9).curveTo(2.3,1.2,2.2,-0).curveTo(2.3,-1.2,1.5,-1.9).curveTo(1,-2.5,0,-2.5).curveTo(-1,-2.5,-1.5,-1.9).closePath();
-	this.shape_2.setTransform(30.6,10.525);
+	this.shape_2.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,7.2).lineTo(1.6,1.6).curveTo(1.6,-0.2,-0,-0.2).curveTo(-0.7,-0.2,-1.2,0.2).curveTo(-1.6,0.7,-1.6,1.4).lineTo(-1.6,7.2).lineTo(-4.7,7.2).lineTo(-4.7,-7.2).lineTo(-1.6,-7.2).lineTo(-1.6,-2).curveTo(-0.7,-2.9,0.9,-2.9).curveTo(2.8,-2.9,3.8,-1.8).curveTo(4.7,-0.8,4.7,1).lineTo(4.7,7.2).closePath();
+	this.shape_2.setTransform(23.975,41.35);
 
 	this.shape_3 = new cjs.Shape();
-	this.shape_3.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.1,4.1).curveTo(-4,3.3,-4.1,2.2).lineTo(-1.5,1.7).curveTo(-1.4,2.3,-1.1,2.6).curveTo(-0.7,3,0.1,3).curveTo(1.2,3,1.2,2.2).curveTo(1.2,1.6,0.2,1.4).lineTo(-0.9,1.1).curveTo(-3.9,0.5,-3.9,-2).curveTo(-3.9,-3.3,-2.8,-4.3).curveTo(-1.7,-5.3,-0,-5.3).curveTo(1.9,-5.3,3,-4.2).curveTo(3.8,-3.4,3.9,-2.3).lineTo(1.4,-1.8).curveTo(1.3,-3.1,-0,-3.1).curveTo(-0.4,-3.1,-0.7,-2.8).curveTo(-1.1,-2.6,-1.1,-2.2).curveTo(-1.1,-1.6,-0.3,-1.5).lineTo(1,-1.2).curveTo(2.5,-0.9,3.3,-0).curveTo(4.1,0.8,4.1,1.9).curveTo(4.1,3.3,3.1,4.2).curveTo(2,5.3,0.1,5.3).curveTo(-1.9,5.3,-3.1,4.1).closePath();
-	this.shape_3.setTransform(20,10.525);
+	this.shape_3.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,5.7).curveTo(-1.6,4.8,-1.6,3.3).lineTo(-1.6,-1).lineTo(-3.4,-1).lineTo(-3.4,-3.6).lineTo(-2.8,-3.6).curveTo(-1.3,-3.6,-1.3,-5.2).lineTo(-1.3,-6.5).lineTo(1.5,-6.5).lineTo(1.5,-3.6).lineTo(3.4,-3.6).lineTo(3.4,-1).lineTo(1.5,-1).lineTo(1.5,2.8).curveTo(1.5,3.8,2.6,3.8).lineTo(3.4,3.7).lineTo(3.4,6.2).curveTo(2.7,6.5,1.8,6.5).curveTo(0.2,6.5,-0.7,5.7).closePath();
+	this.shape_3.setTransform(13.9,42.275);
 
 	this.shape_4 = new cjs.Shape();
-	this.shape_4.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,6).curveTo(-4.9,5,-5.1,3.5).lineTo(-2.5,2.8).curveTo(-2.3,3.6,-1.7,4).curveTo(-1.2,4.5,-0.3,4.4).curveTo(2.1,4.4,2.1,1.9).lineTo(2.1,1.4).curveTo(1.4,2.6,-0.5,2.6).curveTo(-2.5,2.6,-3.8,1.2).curveTo(-5.1,-0.2,-5.1,-2.2).curveTo(-5.1,-4.3,-3.8,-5.7).curveTo(-2.5,-7.1,-0.5,-7.1).curveTo(1.6,-7.1,2.2,-5.9).lineTo(2.2,-6.9).lineTo(5.1,-6.9).lineTo(5.1,1.7).curveTo(5.1,4.1,3.9,5.5).curveTo(2.5,7.1,-0.2,7.1).curveTo(-2.2,7.1,-3.6,6).closePath().moveTo(-1.4,-3.9).curveTo(-2.1,-3.2,-2.1,-2.2).curveTo(-2.1,-1.3,-1.5,-0.6).curveTo(-0.9,-0.1,0,-0.1).curveTo(1,-0.1,1.6,-0.6).curveTo(2.2,-1.3,2.2,-2.2).curveTo(2.2,-3.2,1.5,-3.9).curveTo(0.9,-4.4,0,-4.5).curveTo(-0.8,-4.4,-1.4,-3.9).closePath();
-	this.shape_4.setTransform(4.175,12.5);
+	this.shape_4.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.1,5).lineTo(-3.1,-4.9).lineTo(-0.2,-4.9).lineTo(-0.2,-3.6).curveTo(0.4,-5,2.4,-5).lineTo(3.2,-4.9).lineTo(3.2,-1.9).lineTo(2.2,-2).curveTo(1.2,-2,0.6,-1.4).curveTo(-0.1,-0.7,-0.1,0.7).lineTo(-0.1,5).closePath();
+	this.shape_4.setTransform(6.8,43.575);
 
 	this.shape_5 = new cjs.Shape();
-	this.shape_5.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,5.1).lineTo(1.6,-0.6).curveTo(1.6,-2.3,-0,-2.4).curveTo(-0.7,-2.3,-1.2,-1.8).curveTo(-1.6,-1.4,-1.6,-0.6).lineTo(-1.6,5.1).lineTo(-4.7,5.1).lineTo(-4.7,-4.8).lineTo(-1.7,-4.8).lineTo(-1.7,-3.7).curveTo(-1.4,-4.3,-0.5,-4.7).curveTo(0.2,-5.1,1,-5.1).curveTo(2.8,-5.1,3.8,-3.9).curveTo(4.7,-2.9,4.7,-1.1).lineTo(4.7,5.1).closePath();
-	this.shape_5.setTransform(-7.475,10.4);
+	this.shape_5.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,4.3).curveTo(-4.5,3.5,-4.5,2.2).curveTo(-4.5,1,-3.7,0.2).curveTo(-2.9,-0.6,-1.6,-0.8).lineTo(0.7,-1.1).curveTo(1.5,-1.2,1.5,-1.8).curveTo(1.5,-2.3,1.1,-2.6).curveTo(0.7,-2.9,0,-2.9).curveTo(-0.7,-2.9,-1.2,-2.4).curveTo(-1.6,-2,-1.7,-1.4).lineTo(-4.3,-2).curveTo(-4.2,-3.2,-3.2,-4.1).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.4,-4.1).curveTo(4.4,-3.1,4.4,-1.4).lineTo(4.4,3.4).lineTo(4.5,5).lineTo(1.8,5).lineTo(1.7,3.9).curveTo(0.8,5.3,-1.1,5.3).curveTo(-2.7,5.3,-3.6,4.3).closePath().moveTo(-0.4,0.9).curveTo(-1.5,1.1,-1.5,2).curveTo(-1.5,3.1,-0.4,3.1).curveTo(1.5,3.1,1.5,1.1).lineTo(1.5,0.6).closePath();
+	this.shape_5.setTransform(-3.325,43.625);
 
 	this.shape_6 = new cjs.Shape();
-	this.shape_6.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,7.4).lineTo(-1.5,-2.6).lineTo(1.5,-2.6).lineTo(1.5,7.4).closePath().moveTo(-1.3,-4.3).curveTo(-1.8,-4.9,-1.8,-5.6).curveTo(-1.8,-6.3,-1.3,-6.9).curveTo(-0.8,-7.4,-0,-7.4).curveTo(0.7,-7.4,1.2,-6.9).curveTo(1.8,-6.3,1.8,-5.6).curveTo(1.8,-4.9,1.2,-4.3).curveTo(0.7,-3.8,-0,-3.8).curveTo(-0.8,-3.8,-1.3,-4.3).closePath();
-	this.shape_6.setTransform(-16.325,8.125);
+	this.shape_6.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.5,3.8).curveTo(-5,2.3,-5,0).curveTo(-5,-2.3,-3.5,-3.8).curveTo(-2,-5.3,0.2,-5.3).curveTo(2.1,-5.3,3.4,-4.2).curveTo(4.7,-3.3,5,-1.8).lineTo(2.3,-1).curveTo(1.8,-2.5,0.3,-2.5).curveTo(-0.7,-2.5,-1.3,-1.8).curveTo(-2,-1.1,-2,0).curveTo(-2,1.2,-1.3,1.8).curveTo(-0.7,2.5,0.3,2.5).curveTo(2,2.5,2.4,1).lineTo(5.1,1.8).curveTo(4.7,3.2,3.5,4.2).curveTo(2.2,5.3,0.3,5.3).curveTo(-1.9,5.3,-3.5,3.8).closePath();
+	this.shape_6.setTransform(-14.15,43.625);
 
 	this.shape_7 = new cjs.Shape();
-	this.shape_7.graphics.beginFill("#FFFFFF").beginStroke().moveTo(4.8,5.1).lineTo(4.8,-0.6).curveTo(4.8,-2.3,3.2,-2.3).curveTo(2.4,-2.3,2,-1.8).curveTo(1.5,-1.3,1.5,-0.6).lineTo(1.5,5.1).lineTo(-1.5,5.1).lineTo(-1.5,-0.6).curveTo(-1.5,-2.3,-3.1,-2.3).curveTo(-3.8,-2.3,-4.3,-1.8).curveTo(-4.7,-1.3,-4.7,-0.6).lineTo(-4.7,5.1).lineTo(-7.7,5.1).lineTo(-7.7,-4.8).lineTo(-4.8,-4.8).lineTo(-4.8,-3.7).curveTo(-4.5,-4.3,-3.6,-4.7).curveTo(-2.8,-5.1,-2,-5.1).curveTo(0.2,-5.1,1,-3.6).curveTo(2,-5.1,4,-5.1).curveTo(5.6,-5.1,6.6,-4.2).curveTo(7.7,-3.2,7.7,-1.3).lineTo(7.7,5.1).closePath();
-	this.shape_7.setTransform(-28.125,10.375);
+	this.shape_7.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,4.3).curveTo(-4.5,3.5,-4.5,2.2).curveTo(-4.5,1,-3.7,0.2).curveTo(-2.9,-0.6,-1.6,-0.8).lineTo(0.7,-1.1).curveTo(1.5,-1.2,1.5,-1.8).curveTo(1.5,-2.3,1.1,-2.6).curveTo(0.7,-2.9,0,-2.9).curveTo(-0.7,-2.9,-1.2,-2.4).curveTo(-1.6,-2,-1.7,-1.4).lineTo(-4.3,-2).curveTo(-4.2,-3.2,-3.2,-4.1).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.4,-4.1).curveTo(4.4,-3.1,4.4,-1.4).lineTo(4.4,3.4).lineTo(4.5,5).lineTo(1.8,5).lineTo(1.7,3.9).curveTo(0.8,5.3,-1.1,5.3).curveTo(-2.7,5.3,-3.6,4.3).closePath().moveTo(-0.4,0.9).curveTo(-1.5,1.1,-1.5,2).curveTo(-1.5,3.1,-0.4,3.1).curveTo(1.5,3.1,1.5,1.1).lineTo(1.5,0.6).closePath();
+	this.shape_7.setTransform(-25.425,43.625);
 
 	this.shape_8 = new cjs.Shape();
-	this.shape_8.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.8,3.8).curveTo(-5.3,2.3,-5.3,-0).curveTo(-5.3,-2.3,-3.8,-3.8).curveTo(-2.3,-5.3,0,-5.3).curveTo(2.2,-5.3,3.7,-3.8).curveTo(5.3,-2.3,5.3,-0).curveTo(5.3,2.3,3.7,3.8).curveTo(2.2,5.3,0,5.3).curveTo(-2.3,5.3,-3.8,3.8).closePath().moveTo(-1.6,-1.9).curveTo(-2.2,-1.2,-2.2,-0).curveTo(-2.2,1.2,-1.6,1.9).curveTo(-0.9,2.5,0,2.5).curveTo(0.9,2.5,1.6,1.9).curveTo(2.2,1.2,2.3,-0).curveTo(2.2,-1.2,1.6,-1.9).curveTo(0.9,-2.5,0,-2.5).curveTo(-0.9,-2.5,-1.6,-1.9).closePath();
-	this.shape_8.setTransform(-43.05,10.525);
+	this.shape_8.graphics.beginFill("#FFFFFF").beginStroke().moveTo(4.9,7.1).lineTo(4.9,-2.3).lineTo(1.2,7.1).lineTo(-1.3,7.1).lineTo(-5,-2.2).lineTo(-5,7.1).lineTo(-8,7.1).lineTo(-8,-7.1).lineTo(-3.9,-7.1).lineTo(-0,2.5).lineTo(3.7,-7.1).lineTo(8,-7.1).lineTo(8,7.1).closePath();
+	this.shape_8.setTransform(-40.225,41.5);
 
 	this.shape_9 = new cjs.Shape();
-	this.shape_9.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.5,3.8).curveTo(-5.1,2.3,-5.1,0).curveTo(-5.1,-2.3,-3.5,-3.8).curveTo(-2,-5.3,0.2,-5.3).curveTo(2.1,-5.3,3.5,-4.2).curveTo(4.7,-3.3,5,-1.8).lineTo(2.2,-1).curveTo(1.8,-2.5,0.2,-2.5).curveTo(-0.7,-2.5,-1.4,-1.8).curveTo(-2,-1.1,-2,0).curveTo(-2,1.2,-1.3,1.8).curveTo(-0.7,2.5,0.3,2.5).curveTo(1.9,2.5,2.4,1).lineTo(5.1,1.8).curveTo(4.7,3.2,3.5,4.2).curveTo(2.2,5.3,0.3,5.3).curveTo(-2,5.3,-3.5,3.8).closePath();
-	this.shape_9.setTransform(-54.5,10.525);
+	this.shape_9.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,3.9).curveTo(-5,2.4,-5,-0).curveTo(-5,-2.3,-3.4,-3.8).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.7,-3.9).curveTo(5,-2.6,5,-0.2).lineTo(4.9,0.8).lineTo(-2,0.8).curveTo(-2,1.6,-1.3,2.2).curveTo(-0.6,2.7,0.3,2.7).curveTo(1.8,2.7,2.3,1.4).lineTo(4.8,2.1).curveTo(4.4,3.5,3.3,4.3).curveTo(2,5.3,0.2,5.3).curveTo(-1.9,5.3,-3.4,3.9).closePath().moveTo(2,-1.2).curveTo(2,-1.9,1.6,-2.3).curveTo(1,-2.9,0,-2.9).curveTo(-0.8,-2.9,-1.4,-2.3).curveTo(-1.9,-1.8,-1.9,-1.2).lineTo(2,-1.2).lineTo(2,-1.2).closePath();
+	this.shape_9.setTransform(20.975,21.325);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,3.9).curveTo(-5,2.4,-5,-0).curveTo(-5,-2.3,-3.4,-3.8).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.7,-3.9).curveTo(5,-2.6,5,-0.2).lineTo(4.9,0.8).lineTo(-2,0.8).curveTo(-2,1.6,-1.3,2.2).curveTo(-0.6,2.7,0.3,2.7).curveTo(1.8,2.7,2.3,1.4).lineTo(4.8,2.1).curveTo(4.4,3.5,3.3,4.3).curveTo(2,5.3,0.2,5.3).curveTo(-1.9,5.3,-3.4,3.9).closePath().moveTo(2,-1.2).curveTo(2,-1.9,1.6,-2.3).curveTo(1,-2.9,0,-2.9).curveTo(-0.8,-2.9,-1.4,-2.3).curveTo(-1.9,-1.8,-1.9,-1.2).lineTo(2,-1.2).lineTo(2,-1.2).closePath();
-	this.shape_10.setTransform(53.875,-11.775);
+	this.shape_10.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,7.2).lineTo(1.6,1.6).curveTo(1.6,-0.2,-0,-0.2).curveTo(-0.7,-0.2,-1.2,0.2).curveTo(-1.6,0.7,-1.6,1.4).lineTo(-1.6,7.2).lineTo(-4.7,7.2).lineTo(-4.7,-7.3).lineTo(-1.6,-7.3).lineTo(-1.6,-2).curveTo(-0.7,-3,0.9,-2.9).curveTo(2.8,-2.9,3.8,-1.8).curveTo(4.7,-0.8,4.7,1).lineTo(4.7,7.2).closePath();
+	this.shape_10.setTransform(9.525,19.05);
 
 	this.shape_11 = new cjs.Shape();
-	this.shape_11.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.1,4.1).curveTo(-4,3.3,-4.1,2.2).lineTo(-1.5,1.7).curveTo(-1.4,2.3,-1.1,2.6).curveTo(-0.6,3,0,3).curveTo(1.2,3,1.2,2.2).curveTo(1.2,1.6,0.2,1.4).lineTo(-0.9,1.1).curveTo(-3.8,0.5,-3.8,-2).curveTo(-3.8,-3.3,-2.8,-4.3).curveTo(-1.7,-5.3,-0,-5.3).curveTo(1.9,-5.3,3,-4.2).curveTo(3.8,-3.4,3.9,-2.3).lineTo(1.4,-1.8).curveTo(1.2,-3.1,-0,-3.1).curveTo(-0.5,-3.1,-0.8,-2.8).curveTo(-1.1,-2.6,-1.1,-2.2).curveTo(-1.1,-1.6,-0.3,-1.5).lineTo(1,-1.2).curveTo(2.5,-0.9,3.3,-0).curveTo(4.1,0.8,4.1,1.9).curveTo(4.1,3.3,3.1,4.2).curveTo(2,5.3,0.1,5.3).curveTo(-2,5.3,-3.1,4.1).closePath();
-	this.shape_11.setTransform(43.6,-11.775);
+	this.shape_11.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,5.7).curveTo(-1.6,4.8,-1.5,3.3).lineTo(-1.5,-1).lineTo(-3.3,-1).lineTo(-3.3,-3.6).lineTo(-2.9,-3.6).curveTo(-1.3,-3.6,-1.3,-5.2).lineTo(-1.3,-6.5).lineTo(1.4,-6.5).lineTo(1.4,-3.6).lineTo(3.3,-3.6).lineTo(3.3,-1).lineTo(1.4,-1).lineTo(1.4,2.8).curveTo(1.4,3.8,2.5,3.8).lineTo(3.3,3.7).lineTo(3.3,6.2).curveTo(2.8,6.5,1.7,6.5).curveTo(0.2,6.5,-0.7,5.7).closePath();
+	this.shape_11.setTransform(-0.55,19.975);
 
 	this.shape_12 = new cjs.Shape();
-	this.shape_12.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,4.3).curveTo(-4.5,3.5,-4.5,2.2).curveTo(-4.5,1,-3.7,0.2).curveTo(-2.9,-0.6,-1.6,-0.8).lineTo(0.7,-1.1).curveTo(1.5,-1.2,1.5,-1.8).curveTo(1.5,-2.3,1.1,-2.6).curveTo(0.7,-2.9,0,-2.9).curveTo(-0.7,-2.9,-1.2,-2.4).curveTo(-1.6,-2,-1.7,-1.4).lineTo(-4.3,-2).curveTo(-4.2,-3.2,-3.2,-4.1).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.4,-4.1).curveTo(4.4,-3.1,4.4,-1.4).lineTo(4.4,3.4).lineTo(4.5,5).lineTo(1.8,5).lineTo(1.7,3.9).curveTo(0.8,5.3,-1.1,5.3).curveTo(-2.7,5.3,-3.6,4.3).closePath().moveTo(-0.4,0.9).curveTo(-1.5,1.1,-1.5,2).curveTo(-1.5,3.1,-0.4,3.1).curveTo(1.5,3.1,1.5,1.1).lineTo(1.5,0.6).closePath();
-	this.shape_12.setTransform(33.375,-11.775);
+	this.shape_12.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,5.1).lineTo(1.6,-0.6).curveTo(1.6,-2.3,-0,-2.4).curveTo(-0.7,-2.3,-1.2,-1.8).curveTo(-1.6,-1.4,-1.6,-0.6).lineTo(-1.6,5.1).lineTo(-4.7,5.1).lineTo(-4.7,-4.8).lineTo(-1.7,-4.8).lineTo(-1.7,-3.7).curveTo(-1.4,-4.3,-0.5,-4.7).curveTo(0.2,-5.1,1,-5.1).curveTo(2.8,-5.1,3.8,-3.9).curveTo(4.7,-2.9,4.7,-1.1).lineTo(4.7,5.1).closePath();
+	this.shape_12.setTransform(-14.875,21.2);
 
 	this.shape_13 = new cjs.Shape();
-	this.shape_13.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,3.9).curveTo(-5,2.4,-5,-0).curveTo(-5,-2.3,-3.4,-3.8).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.7,-3.9).curveTo(5,-2.6,5,-0.2).lineTo(4.9,0.8).lineTo(-2,0.8).curveTo(-2,1.6,-1.3,2.2).curveTo(-0.6,2.7,0.3,2.7).curveTo(1.8,2.7,2.3,1.4).lineTo(4.8,2.1).curveTo(4.4,3.5,3.3,4.3).curveTo(2,5.3,0.2,5.3).curveTo(-1.9,5.3,-3.4,3.9).closePath().moveTo(2,-1.2).curveTo(2,-1.9,1.6,-2.3).curveTo(1,-2.9,0,-2.9).curveTo(-0.8,-2.9,-1.4,-2.3).curveTo(-1.9,-1.8,-1.9,-1.2).lineTo(2,-1.2).lineTo(2,-1.2).closePath();
-	this.shape_13.setTransform(22.525,-11.775);
+	this.shape_13.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,7.4).lineTo(-1.5,-2.6).lineTo(1.5,-2.6).lineTo(1.5,7.4).closePath().moveTo(-1.3,-4.3).curveTo(-1.8,-4.9,-1.8,-5.6).curveTo(-1.8,-6.3,-1.3,-6.9).curveTo(-0.8,-7.4,-0,-7.4).curveTo(0.7,-7.4,1.2,-6.9).curveTo(1.8,-6.3,1.8,-5.6).curveTo(1.8,-4.9,1.2,-4.3).curveTo(0.7,-3.8,-0,-3.8).curveTo(-0.8,-3.8,-1.3,-4.3).closePath();
+	this.shape_13.setTransform(-23.725,18.925);
 
 	this.shape_14 = new cjs.Shape();
-	this.shape_14.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,7.2).lineTo(-1.5,-7.3).lineTo(1.5,-7.3).lineTo(1.5,7.2).closePath();
-	this.shape_14.setTransform(14.125,-14.05);
+	this.shape_14.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,6.9).lineTo(-1.4,1.7).lineTo(-5.6,-6.9).lineTo(-2.2,-6.9).lineTo(0.2,-1.5).lineTo(2.4,-6.9).lineTo(5.6,-6.9).lineTo(-0.5,6.9).closePath();
+	this.shape_14.setTransform(47.975,0.925);
 
 	this.shape_15 = new cjs.Shape();
-	this.shape_15.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,3.9).curveTo(-5,2.4,-5,-0).curveTo(-5,-2.3,-3.4,-3.8).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.7,-3.9).curveTo(5,-2.6,5,-0.2).lineTo(4.9,0.8).lineTo(-2,0.8).curveTo(-2,1.6,-1.3,2.2).curveTo(-0.6,2.7,0.3,2.7).curveTo(1.8,2.7,2.3,1.4).lineTo(4.8,2.1).curveTo(4.4,3.5,3.3,4.3).curveTo(2,5.3,0.2,5.3).curveTo(-1.9,5.3,-3.4,3.9).closePath().moveTo(2,-1.2).curveTo(2,-1.9,1.6,-2.3).curveTo(1,-2.9,0,-2.9).curveTo(-0.8,-2.9,-1.4,-2.3).curveTo(-1.9,-1.8,-1.9,-1.2).lineTo(2,-1.2).lineTo(2,-1.2).closePath();
-	this.shape_15.setTransform(5.675,-11.775);
+	this.shape_15.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,5.7).curveTo(-1.6,4.8,-1.6,3.3).lineTo(-1.6,-1).lineTo(-3.4,-1).lineTo(-3.4,-3.6).lineTo(-2.8,-3.6).curveTo(-1.3,-3.6,-1.3,-5.2).lineTo(-1.3,-6.5).lineTo(1.5,-6.5).lineTo(1.5,-3.6).lineTo(3.4,-3.6).lineTo(3.4,-1).lineTo(1.5,-1).lineTo(1.5,2.8).curveTo(1.5,3.8,2.6,3.8).lineTo(3.4,3.7).lineTo(3.4,6.2).curveTo(2.7,6.5,1.8,6.5).curveTo(0.2,6.5,-0.7,5.7).closePath();
+	this.shape_15.setTransform(38.2,-2.325);
 
 	this.shape_16 = new cjs.Shape();
-	this.shape_16.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.1,5).lineTo(-3.1,-4.9).lineTo(-0.2,-4.9).lineTo(-0.2,-3.6).curveTo(0.4,-5,2.4,-5).lineTo(3.2,-4.9).lineTo(3.2,-1.9).lineTo(2.2,-2).curveTo(1.2,-2,0.6,-1.4).curveTo(-0.1,-0.7,-0.1,0.7).lineTo(-0.1,5).closePath();
-	this.shape_16.setTransform(-3.45,-11.825);
+	this.shape_16.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,7.4).lineTo(-1.5,-2.6).lineTo(1.5,-2.6).lineTo(1.5,7.4).closePath().moveTo(-1.3,-4.3).curveTo(-1.8,-4.9,-1.8,-5.6).curveTo(-1.8,-6.3,-1.3,-6.9).curveTo(-0.8,-7.4,-0,-7.4).curveTo(0.7,-7.4,1.2,-6.9).curveTo(1.8,-6.3,1.8,-5.6).curveTo(1.8,-4.9,1.2,-4.3).curveTo(0.7,-3.8,-0,-3.8).curveTo(-0.8,-3.8,-1.3,-4.3).closePath();
+	this.shape_16.setTransform(31.825,-3.375);
 
 	this.shape_17 = new cjs.Shape();
-	this.shape_17.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.9,5.9).curveTo(-5.3,4.4,-5.3,2.2).curveTo(-5.3,-0.1,-4,-1.5).curveTo(-2.6,-3,-0.4,-3.1).curveTo(1.6,-3.1,2.2,-2).lineTo(2.2,-7.4).lineTo(5.2,-7.4).lineTo(5.2,5.3).lineTo(5.3,7.1).lineTo(2.4,7.1).lineTo(2.3,6.2).curveTo(1.5,7.4,-0.4,7.4).curveTo(-2.5,7.4,-3.9,5.9).closePath().moveTo(-1.5,0.3).curveTo(-2.2,1,-2.2,2.2).curveTo(-2.2,3.3,-1.5,4).curveTo(-0.9,4.6,0,4.7).curveTo(1,4.6,1.6,4).curveTo(2.2,3.3,2.3,2.2).curveTo(2.2,1,1.6,0.3).curveTo(1,-0.3,0,-0.3).curveTo(-1,-0.3,-1.5,0.3).closePath();
-	this.shape_17.setTransform(-19.45,-13.95);
+	this.shape_17.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,5.1).lineTo(1.6,-0.6).curveTo(1.6,-2.3,-0,-2.3).curveTo(-0.7,-2.3,-1.2,-1.9).curveTo(-1.6,-1.3,-1.6,-0.6).lineTo(-1.6,5.1).lineTo(-4.7,5.1).lineTo(-4.7,-4.8).lineTo(-1.7,-4.8).lineTo(-1.7,-3.7).curveTo(-1.4,-4.4,-0.5,-4.8).curveTo(0.2,-5.1,1,-5.1).curveTo(2.8,-5.1,3.8,-3.9).curveTo(4.7,-2.9,4.7,-1.2).lineTo(4.7,5.1).closePath();
+	this.shape_17.setTransform(23.075,-1.1);
 
 	this.shape_18 = new cjs.Shape();
-	this.shape_18.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,5.1).lineTo(1.6,-0.6).curveTo(1.6,-2.3,-0,-2.3).curveTo(-0.7,-2.3,-1.2,-1.9).curveTo(-1.6,-1.3,-1.6,-0.6).lineTo(-1.6,5.1).lineTo(-4.7,5.1).lineTo(-4.7,-4.8).lineTo(-1.7,-4.8).lineTo(-1.7,-3.7).curveTo(-1.4,-4.4,-0.5,-4.8).curveTo(0.2,-5.1,1,-5.1).curveTo(2.8,-5.1,3.8,-3.9).curveTo(4.7,-2.9,4.7,-1.2).lineTo(4.7,5.1).closePath();
-	this.shape_18.setTransform(-31.225,-11.9);
+	this.shape_18.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,3.9).curveTo(-4.7,2.9,-4.7,1.2).lineTo(-4.7,-5.1).lineTo(-1.7,-5.1).lineTo(-1.7,0.6).curveTo(-1.7,1.3,-1.3,1.8).curveTo(-0.9,2.3,-0.1,2.3).curveTo(0.7,2.3,1.1,1.8).curveTo(1.6,1.3,1.6,0.6).lineTo(1.6,-5.1).lineTo(4.6,-5.1).lineTo(4.6,3.1).lineTo(4.7,4.9).lineTo(1.8,4.9).lineTo(1.7,3.9).curveTo(1,5.1,-1,5.1).curveTo(-2.7,5.1,-3.7,3.9).closePath();
+	this.shape_18.setTransform(11.125,-0.875);
 
 	this.shape_19 = new cjs.Shape();
-	this.shape_19.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,4.3).curveTo(-4.5,3.5,-4.5,2.2).curveTo(-4.5,1,-3.7,0.2).curveTo(-2.9,-0.6,-1.6,-0.8).lineTo(0.7,-1.1).curveTo(1.5,-1.2,1.5,-1.8).curveTo(1.5,-2.3,1.1,-2.6).curveTo(0.7,-2.9,0,-2.9).curveTo(-0.7,-2.9,-1.2,-2.4).curveTo(-1.6,-2,-1.7,-1.4).lineTo(-4.3,-2).curveTo(-4.2,-3.2,-3.2,-4.1).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.4,-4.1).curveTo(4.4,-3.1,4.4,-1.4).lineTo(4.4,3.4).lineTo(4.5,5).lineTo(1.8,5).lineTo(1.7,3.9).curveTo(0.8,5.3,-1.1,5.3).curveTo(-2.7,5.3,-3.6,4.3).closePath().moveTo(-0.4,0.9).curveTo(-1.5,1.1,-1.5,2).curveTo(-1.5,3.1,-0.4,3.1).curveTo(1.5,3.1,1.5,1.1).lineTo(1.5,0.6).closePath();
-	this.shape_19.setTransform(-42.875,-11.775);
+	this.shape_19.graphics.beginFill("#FFFFFF").beginStroke().moveTo(4.8,5.1).lineTo(4.8,-0.6).curveTo(4.8,-2.3,3.2,-2.3).curveTo(2.4,-2.3,2,-1.8).curveTo(1.5,-1.3,1.5,-0.6).lineTo(1.5,5.1).lineTo(-1.5,5.1).lineTo(-1.5,-0.6).curveTo(-1.5,-2.3,-3.1,-2.3).curveTo(-3.8,-2.3,-4.3,-1.8).curveTo(-4.7,-1.3,-4.7,-0.6).lineTo(-4.7,5.1).lineTo(-7.7,5.1).lineTo(-7.7,-4.8).lineTo(-4.8,-4.8).lineTo(-4.8,-3.7).curveTo(-4.5,-4.3,-3.6,-4.7).curveTo(-2.8,-5.1,-2,-5.1).curveTo(0.2,-5.1,1,-3.6).curveTo(2,-5.1,4,-5.1).curveTo(5.6,-5.1,6.6,-4.2).curveTo(7.7,-3.2,7.7,-1.3).lineTo(7.7,5.1).closePath();
+	this.shape_19.setTransform(-3.775,-1.125);
 
 	this.shape_20 = new cjs.Shape();
-	this.shape_20.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-4.6,7.1).lineTo(-4.6,-7.1).lineTo(-1.5,-7.1).lineTo(-1.5,4.1).lineTo(4.6,4.1).lineTo(4.6,7.1).closePath();
-	this.shape_20.setTransform(-53.275,-13.9);
+	this.shape_20.graphics.beginFill("#FFFFFF").beginStroke().moveTo(4.8,5.1).lineTo(4.8,-0.6).curveTo(4.8,-2.3,3.2,-2.3).curveTo(2.4,-2.3,2,-1.8).curveTo(1.5,-1.3,1.5,-0.6).lineTo(1.5,5.1).lineTo(-1.5,5.1).lineTo(-1.5,-0.6).curveTo(-1.5,-2.3,-3.1,-2.3).curveTo(-3.8,-2.3,-4.3,-1.8).curveTo(-4.7,-1.3,-4.7,-0.6).lineTo(-4.7,5.1).lineTo(-7.7,5.1).lineTo(-7.7,-4.8).lineTo(-4.8,-4.8).lineTo(-4.8,-3.7).curveTo(-4.5,-4.3,-3.6,-4.7).curveTo(-2.8,-5.1,-2,-5.1).curveTo(0.2,-5.1,1,-3.6).curveTo(2,-5.1,4,-5.1).curveTo(5.6,-5.1,6.6,-4.2).curveTo(7.7,-3.2,7.7,-1.3).lineTo(7.7,5.1).closePath();
+	this.shape_20.setTransform(-21.775,-1.125);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_20},{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+	this.shape_21 = new cjs.Shape();
+	this.shape_21.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.7,3.8).curveTo(-5.3,2.3,-5.3,-0).curveTo(-5.3,-2.3,-3.7,-3.8).curveTo(-2.2,-5.3,-0,-5.3).curveTo(2.3,-5.3,3.8,-3.8).curveTo(5.3,-2.3,5.3,-0).curveTo(5.3,2.3,3.8,3.8).curveTo(2.3,5.3,-0,5.3).curveTo(-2.2,5.3,-3.7,3.8).closePath().moveTo(-1.6,-1.9).curveTo(-2.3,-1.2,-2.3,-0).curveTo(-2.3,1.2,-1.6,1.9).curveTo(-0.9,2.5,-0,2.5).curveTo(1,2.5,1.5,1.9).curveTo(2.3,1.2,2.2,-0).curveTo(2.3,-1.2,1.5,-1.9).curveTo(1,-2.5,-0,-2.5).curveTo(-0.9,-2.5,-1.6,-1.9).closePath();
+	this.shape_21.setTransform(-36.7,-0.975);
 
-}).prototype = getMCSymbolPrototype(lib.Symbol3, new cjs.Rectangle(-66.5,-28.7,133,51.599999999999994), null);
+	this.shape_22 = new cjs.Shape();
+	this.shape_22.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,3.8).curveTo(-5.1,2.3,-5,0).curveTo(-5,-2.3,-3.5,-3.8).curveTo(-2,-5.3,0.2,-5.3).curveTo(2.2,-5.3,3.4,-4.2).curveTo(4.6,-3.3,5,-1.8).lineTo(2.2,-1).curveTo(1.9,-2.5,0.3,-2.5).curveTo(-0.7,-2.5,-1.4,-1.8).curveTo(-2,-1.1,-2,0).curveTo(-2,1.2,-1.3,1.8).curveTo(-0.7,2.5,0.3,2.5).curveTo(2,2.5,2.3,1).lineTo(5,1.8).curveTo(4.7,3.2,3.5,4.2).curveTo(2.2,5.3,0.3,5.3).curveTo(-1.9,5.3,-3.4,3.8).closePath();
+	this.shape_22.setTransform(-48.15,-0.975);
+
+	this.shape_23 = new cjs.Shape();
+	this.shape_23.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-5.2,7).lineTo(-5.2,-6.8).lineTo(-2.3,-6.8).lineTo(-2.3,-5.7).curveTo(-2,-6.3,-1.2,-6.6).curveTo(-0.4,-7,0.6,-7).curveTo(2.7,-7,4,-5.5).curveTo(5.2,-4.1,5.2,-1.8).curveTo(5.2,0.5,3.9,2).curveTo(2.6,3.4,0.5,3.4).curveTo(-1.4,3.4,-2.2,2.4).lineTo(-2.2,7).closePath().moveTo(-1.6,-3.6).curveTo(-2.2,-3,-2.2,-1.8).curveTo(-2.2,-0.6,-1.6,0.1).curveTo(-0.9,0.7,0,0.7).curveTo(1,0.7,1.6,0.1).curveTo(2.3,-0.6,2.3,-1.8).curveTo(2.3,-3,1.6,-3.6).curveTo(1,-4.3,0,-4.2).curveTo(-0.9,-4.3,-1.6,-3.6).closePath();
+	this.shape_23.setTransform(31.775,-21.5);
+
+	this.shape_24 = new cjs.Shape();
+	this.shape_24.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,7.4).lineTo(-1.5,-2.6).lineTo(1.5,-2.6).lineTo(1.5,7.4).closePath().moveTo(-1.3,-4.3).curveTo(-1.8,-4.9,-1.8,-5.6).curveTo(-1.8,-6.3,-1.3,-6.9).curveTo(-0.8,-7.4,-0,-7.4).curveTo(0.7,-7.4,1.2,-6.9).curveTo(1.8,-6.3,1.8,-5.6).curveTo(1.8,-4.9,1.2,-4.3).curveTo(0.7,-3.8,-0,-3.8).curveTo(-0.8,-3.8,-1.3,-4.3).closePath();
+	this.shape_24.setTransform(22.375,-25.675);
+
+	this.shape_25 = new cjs.Shape();
+	this.shape_25.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,7.3).lineTo(1.6,1.5).curveTo(1.6,-0.2,-0,-0.2).curveTo(-0.7,-0.2,-1.2,0.3).curveTo(-1.6,0.7,-1.6,1.4).lineTo(-1.6,7.3).lineTo(-4.7,7.3).lineTo(-4.7,-7.2).lineTo(-1.6,-7.2).lineTo(-1.6,-2.1).curveTo(-0.7,-2.9,0.9,-3).curveTo(2.8,-3,3.8,-1.8).curveTo(4.7,-0.7,4.7,1).lineTo(4.7,7.3).closePath();
+	this.shape_25.setTransform(13.625,-25.55);
+
+	this.shape_26 = new cjs.Shape();
+	this.shape_26.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.1,4.1).curveTo(-4,3.3,-4.1,2.2).lineTo(-1.5,1.7).curveTo(-1.4,2.3,-1.1,2.6).curveTo(-0.7,3,0.1,3).curveTo(1.2,3,1.2,2.2).curveTo(1.2,1.6,0.2,1.4).lineTo(-0.9,1.1).curveTo(-3.9,0.5,-3.9,-2).curveTo(-3.9,-3.3,-2.8,-4.3).curveTo(-1.7,-5.3,-0,-5.3).curveTo(1.9,-5.3,3,-4.2).curveTo(3.8,-3.4,3.9,-2.3).lineTo(1.4,-1.8).curveTo(1.3,-3.1,-0,-3.1).curveTo(-0.4,-3.1,-0.7,-2.8).curveTo(-1.1,-2.6,-1.1,-2.2).curveTo(-1.1,-1.6,-0.3,-1.5).lineTo(1,-1.2).curveTo(2.5,-0.9,3.3,-0).curveTo(4.1,0.8,4.1,1.9).curveTo(4.1,3.3,3.1,4.2).curveTo(2,5.3,0.1,5.3).curveTo(-1.9,5.3,-3.1,4.1).closePath();
+	this.shape_26.setTransform(2.9,-23.275);
+
+	this.shape_27 = new cjs.Shape();
+	this.shape_27.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,6).curveTo(-4.9,5,-5.1,3.6).lineTo(-2.5,2.8).curveTo(-2.3,3.5,-1.7,4).curveTo(-1.2,4.4,-0.3,4.5).curveTo(2.1,4.4,2.1,1.9).lineTo(2.1,1.4).curveTo(1.4,2.6,-0.5,2.6).curveTo(-2.5,2.6,-3.8,1.2).curveTo(-5.1,-0.2,-5.1,-2.3).curveTo(-5.1,-4.2,-3.8,-5.6).curveTo(-2.5,-7.1,-0.5,-7.1).curveTo(1.6,-7.1,2.2,-5.9).lineTo(2.2,-7).lineTo(5.1,-7).lineTo(5.1,1.8).curveTo(5.1,4,3.9,5.5).curveTo(2.5,7.1,-0.2,7.1).curveTo(-2.2,7.1,-3.6,6).closePath().moveTo(-1.4,-3.8).curveTo(-2.1,-3.2,-2.1,-2.3).curveTo(-2.1,-1.2,-1.5,-0.7).curveTo(-0.9,-0,0,-0).curveTo(1,-0,1.6,-0.7).curveTo(2.2,-1.2,2.2,-2.3).curveTo(2.2,-3.2,1.5,-3.8).curveTo(0.9,-4.5,0,-4.4).curveTo(-0.8,-4.5,-1.4,-3.8).closePath();
+	this.shape_27.setTransform(-8.025,-21.3);
+
+	this.shape_28 = new cjs.Shape();
+	this.shape_28.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.6,4.3).curveTo(-4.5,3.5,-4.5,2.2).curveTo(-4.5,1,-3.7,0.2).curveTo(-2.9,-0.6,-1.6,-0.8).lineTo(0.7,-1.1).curveTo(1.5,-1.2,1.5,-1.8).curveTo(1.5,-2.3,1.1,-2.6).curveTo(0.7,-2.9,0,-2.9).curveTo(-0.7,-2.9,-1.2,-2.4).curveTo(-1.6,-2,-1.7,-1.4).lineTo(-4.3,-2).curveTo(-4.2,-3.2,-3.2,-4.1).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.4,-4.1).curveTo(4.4,-3.1,4.4,-1.4).lineTo(4.4,3.4).lineTo(4.5,5).lineTo(1.8,5).lineTo(1.7,3.9).curveTo(0.8,5.3,-1.1,5.3).curveTo(-2.7,5.3,-3.6,4.3).closePath().moveTo(-0.4,0.9).curveTo(-1.5,1.1,-1.5,2).curveTo(-1.5,3.1,-0.4,3.1).curveTo(1.5,3.1,1.5,1.1).lineTo(1.5,0.6).closePath();
+	this.shape_28.setTransform(-19.425,-23.275);
+
+	this.shape_29 = new cjs.Shape();
+	this.shape_29.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.5,7.3).lineTo(-1.5,-7.2).lineTo(1.5,-7.2).lineTo(1.5,7.3).closePath();
+	this.shape_29.setTransform(-27.525,-25.55);
+
+	this.shape_30 = new cjs.Shape();
+	this.shape_30.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-1.8,7.3).lineTo(-1.8,-0.1).lineTo(-3.4,-0.1).lineTo(-3.4,-2.6).lineTo(-1.8,-2.6).lineTo(-1.8,-3.5).curveTo(-1.8,-5.2,-0.8,-6.2).curveTo(0.2,-7.3,2,-7.3).curveTo(3,-7.3,3.4,-7.1).lineTo(3.4,-4.6).lineTo(2.5,-4.7).curveTo(1.2,-4.7,1.2,-3.4).lineTo(1.2,-2.6).lineTo(3.4,-2.6).lineTo(3.4,-0.1).lineTo(1.2,-0.1).lineTo(1.2,7.3).closePath();
+	this.shape_30.setTransform(-34.025,-25.625);
+
+	this.shape_31 = new cjs.Shape();
+	this.shape_31.graphics.beginFill("#FFFFFF").beginStroke().moveTo(2.2,5).lineTo(0,-1.4).lineTo(-2.1,5).lineTo(-5.2,5).lineTo(-8.3,-5).lineTo(-5.1,-5).lineTo(-3.5,0.9).lineTo(-1.5,-5).lineTo(1.7,-5).lineTo(3.6,0.9).lineTo(5.3,-5).lineTo(8.3,-5).lineTo(5.2,5).closePath();
+	this.shape_31.setTransform(21.3,-45.575);
+
+	this.shape_32 = new cjs.Shape();
+	this.shape_32.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-3.4,3.9).curveTo(-5,2.4,-5,-0).curveTo(-5,-2.3,-3.4,-3.8).curveTo(-2,-5.3,0,-5.3).curveTo(2.3,-5.3,3.7,-3.9).curveTo(5,-2.6,5,-0.2).lineTo(4.9,0.8).lineTo(-2,0.8).curveTo(-2,1.6,-1.3,2.2).curveTo(-0.6,2.7,0.3,2.7).curveTo(1.8,2.7,2.3,1.4).lineTo(4.8,2.1).curveTo(4.4,3.5,3.3,4.3).curveTo(2,5.3,0.2,5.3).curveTo(-1.9,5.3,-3.4,3.9).closePath().moveTo(2,-1.2).curveTo(2,-1.9,1.6,-2.3).curveTo(1,-2.9,0,-2.9).curveTo(-0.8,-2.9,-1.4,-2.3).curveTo(-1.9,-1.8,-1.9,-1.2).lineTo(2,-1.2).lineTo(2,-1.2).closePath();
+	this.shape_32.setTransform(7.225,-45.575);
+
+	this.shape_33 = new cjs.Shape();
+	this.shape_33.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1.6,5.1).lineTo(1.6,-0.6).curveTo(1.6,-2.4,-0,-2.4).curveTo(-0.7,-2.4,-1.2,-1.8).curveTo(-1.6,-1.4,-1.6,-0.6).lineTo(-1.6,5.1).lineTo(-4.7,5.1).lineTo(-4.7,-4.9).lineTo(-1.7,-4.9).lineTo(-1.7,-3.7).curveTo(-1.4,-4.3,-0.5,-4.8).curveTo(0.2,-5.1,1,-5.1).curveTo(2.8,-5.1,3.8,-4).curveTo(4.7,-2.9,4.7,-1.2).lineTo(4.7,5.1).closePath();
+	this.shape_33.setTransform(-4.225,-45.7);
+
+	this.shape_34 = new cjs.Shape();
+	this.shape_34.graphics.beginFill("#FFFFFF").beginStroke().moveTo(3.7,7.1).lineTo(2.6,4.2).lineTo(-2.8,4.2).lineTo(-3.8,7.1).lineTo(-7.2,7.1).lineTo(-1.8,-7.1).lineTo(1.8,-7.1).lineTo(7.1,7.1).closePath().moveTo(1.7,1.3).lineTo(-0.1,-3.5).lineTo(-1.8,1.3).lineTo(1.7,1.3).closePath();
+	this.shape_34.setTransform(-22.45,-47.7);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_34},{t:this.shape_33},{t:this.shape_32},{t:this.shape_31},{t:this.shape_30},{t:this.shape_29},{t:this.shape_28},{t:this.shape_27},{t:this.shape_26},{t:this.shape_25},{t:this.shape_24},{t:this.shape_23},{t:this.shape_22},{t:this.shape_21},{t:this.shape_20},{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.Symbol3, new cjs.Rectangle(-66.5,-62.5,133,118.5), null);
 
 
 (lib.Symbol2 = function(mode,startPosition,loop) {
@@ -472,67 +532,6 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 }).prototype = getMCSymbolPrototype(lib.planebyitself, new cjs.Rectangle(-146.9,-70.9,294.1,148.4), null);
 
 
-(lib.ClipGroup = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_2 (mask)
-	var mask = new cjs.Shape();
-	mask._off = true;
-	mask.graphics.moveTo(-35.5,25.5).lineTo(-35.5,-25.5).lineTo(35.5,-25.5).lineTo(35.5,25.5).closePath();
-	mask.setTransform(35.55,25.5);
-
-	// Layer_3
-	this.shape = new cjs.Shape();
-	this.shape.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,0.5).lineTo(-0.7,0.4).curveTo(-0.7,-0.4,0,-0.4).curveTo(0.7,-0.4,0.7,0.4).lineTo(0.7,0.5).closePath();
-	this.shape.setTransform(17.625,25.8);
-
-	this.shape_1 = new cjs.Shape();
-	this.shape_1.graphics.beginFill("#FFFFFF").beginStroke().moveTo(0.2,17.2).lineTo(-31.2,-7.1).curveTo(-30.9,-6.9,-30.4,-6.8).curveTo(-29.3,-6.6,-28.6,-7.4).lineTo(-18.7,-17.6).curveTo(-17.3,-18.8,-15.6,-18.6).lineTo(31.2,-12.2).curveTo(29.9,-12.3,29.2,-11.2).lineTo(10.6,15.6).lineTo(10.4,15.9).curveTo(8.5,18.3,5.6,18.6).lineTo(4.5,18.7).curveTo(2.2,18.7,0.2,17.2).closePath().moveTo(14.8,-7.6).curveTo(14.3,-7,14.3,-6).lineTo(14.3,-4.9).curveTo(14.3,-3.9,14.9,-3.3).curveTo(15.5,-2.8,16.4,-2.8).curveTo(17.5,-2.8,18.2,-3.3).lineTo(17.9,-4.4).curveTo(17.2,-4,16.6,-4).curveTo(15.6,-4,15.6,-5).lineTo(15.6,-5.1).lineTo(18.4,-5.1).lineTo(18.4,-6.1).curveTo(18.4,-7,17.9,-7.6).curveTo(17.3,-8.2,16.3,-8.2).curveTo(15.4,-8.2,14.8,-7.6).closePath().moveTo(9.8,-3.3).curveTo(10.5,-2.8,11.7,-2.8).curveTo(12.6,-2.8,13.1,-3.3).curveTo(13.7,-3.8,13.7,-4.5).curveTo(13.7,-5.6,12.4,-6).lineTo(11.7,-6.3).curveTo(11.3,-6.4,11.3,-6.7).curveTo(11.3,-7,11.9,-7).curveTo(12.4,-7,13.1,-6.7).lineTo(13.7,-7.7).curveTo(12.9,-8.2,11.9,-8.2).curveTo(11,-8.2,10.4,-7.7).curveTo(9.9,-7.3,9.9,-6.6).curveTo(9.9,-5.4,11.2,-5).lineTo(11.8,-4.8).curveTo(12.3,-4.6,12.3,-4.4).curveTo(12.3,-4,11.7,-4).curveTo(10.9,-4,10.3,-4.4).closePath().moveTo(5.5,-5.6).curveTo(5.1,-5.2,5.1,-4.5).curveTo(5.1,-2.8,7.2,-2.8).curveTo(8,-2.8,9.2,-3.3).lineTo(9.2,-6.5).curveTo(9.2,-8.2,7.3,-8.2).curveTo(6.3,-8.2,5.4,-7.8).lineTo(5.5,-6.5).curveTo(6.2,-6.9,7,-6.9).curveTo(7.8,-6.9,7.8,-6.3).lineTo(7.8,-6.1).lineTo(6.9,-6.1).curveTo(6,-6.1,5.5,-5.6).closePath().moveTo(1,-7.6).curveTo(0.5,-7,0.5,-6).lineTo(0.5,-4.9).curveTo(0.5,-3.9,1.1,-3.3).curveTo(1.7,-2.8,2.6,-2.8).curveTo(3.7,-2.8,4.5,-3.3).lineTo(4.1,-4.4).curveTo(3.5,-4,2.8,-4).curveTo(1.9,-4,1.9,-5).lineTo(1.9,-5.1).lineTo(4.6,-5.1).lineTo(4.6,-6.1).curveTo(4.6,-7,4.1,-7.6).curveTo(3.5,-8.2,2.6,-8.2).curveTo(1.6,-8.2,1,-7.6).closePath().moveTo(-2.1,-4.1).curveTo(-2.1,-2.8,-0.8,-2.8).curveTo(-0.4,-2.8,0.2,-3).lineTo(0.1,-4.1).lineTo(-0.4,-4).curveTo(-0.8,-4,-0.8,-4.5).lineTo(-0.8,-10).lineTo(-2.1,-10).closePath().moveTo(-6.7,-7.7).curveTo(-7.2,-7.2,-7.2,-6.4).lineTo(-7.2,-4.7).curveTo(-7.2,-3.9,-6.7,-3.4).curveTo(-6.1,-2.8,-5.1,-2.8).curveTo(-4.3,-2.8,-3,-3.3).lineTo(-3,-10).lineTo(-4.4,-10).lineTo(-4.4,-8).lineTo(-5.3,-8.2).curveTo(-6.2,-8.2,-6.7,-7.7).closePath().moveTo(-16.4,-7.6).curveTo(-17,-7,-17,-6).lineTo(-17,-4.9).curveTo(-17,-3.9,-16.3,-3.3).curveTo(-15.7,-2.8,-14.8,-2.8).curveTo(-13.8,-2.8,-13,-3.3).lineTo(-13.4,-4.4).curveTo(-14,-4,-14.7,-4).curveTo(-15.6,-4,-15.6,-5).lineTo(-15.6,-5.1).lineTo(-12.9,-5.1).lineTo(-12.9,-6.1).curveTo(-12.9,-7,-13.4,-7.6).curveTo(-13.9,-8.2,-14.9,-8.2).curveTo(-15.9,-8.2,-16.4,-7.6).closePath().moveTo(-19.6,-4.1).curveTo(-19.6,-2.8,-18.3,-2.8).curveTo(-17.8,-2.8,-17.2,-3).lineTo(-17.4,-4.1).lineTo(-17.8,-4).curveTo(-18.2,-4,-18.2,-4.5).lineTo(-18.2,-10).lineTo(-19.6,-10).closePath().moveTo(-9.4,-6.1).lineTo(-9.4,-2.9).lineTo(-8,-2.9).lineTo(-8,-6.5).curveTo(-8,-8.2,-10,-8.2).curveTo(-10.9,-8.2,-12.2,-7.7).lineTo(-12.2,-2.9).lineTo(-10.8,-2.9).lineTo(-10.8,-6.8).curveTo(-10.5,-7,-10.2,-7).curveTo(-9.4,-7,-9.4,-6.1).closePath();
-	this.shape_1.setTransform(32.5125,32.3468);
-
-	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,0.5).lineTo(-0.7,0.4).curveTo(-0.7,-0.4,0,-0.4).curveTo(0.7,-0.4,0.7,0.4).lineTo(0.7,0.5).closePath();
-	this.shape_2.setTransform(48.85,25.8);
-
-	this.shape_3 = new cjs.Shape();
-	this.shape_3.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,0).curveTo(-0.7,-0.6,-0,-0.5).lineTo(0.7,-0.5).lineTo(0.7,0.5).lineTo(0.1,0.6).curveTo(-0.7,0.5,-0.7,0).closePath();
-	this.shape_3.setTransform(39.675,27.8);
-
-	this.shape_4 = new cjs.Shape();
-	this.shape_4.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,0.5).lineTo(-0.7,0.4).curveTo(-0.7,-0.4,0,-0.4).curveTo(0.7,-0.4,0.7,0.4).lineTo(0.7,0.5).closePath();
-	this.shape_4.setTransform(35.075,25.8);
-
-	this.shape_5 = new cjs.Shape();
-	this.shape_5.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-0.7,0.6).lineTo(-0.7,-0.6).curveTo(-0.7,-1.5,0.1,-1.5).lineTo(0.7,-1.3).lineTo(0.7,1.4).lineTo(0.2,1.5).curveTo(-0.7,1.5,-0.7,0.6).closePath();
-	this.shape_5.setTransform(27.425,26.8);
-
-	this.shape_6 = new cjs.Shape();
-	this.shape_6.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-12.1,12.4).curveTo(-13,12.3,-13.5,11.6).curveTo(-14.1,10.8,-13.9,10).lineTo(-10.8,-10.4).curveTo(-10.6,-11.6,-11.3,-12.5).lineTo(14,2.1).lineTo(2.7,0.6).curveTo(0.9,0.3,-0.4,1.6).lineTo(-10.3,11.8).curveTo(-10.9,12.5,-11.8,12.5).lineTo(-12.1,12.4).closePath();
-	this.shape_6.setTransform(13.9839,12.4618);
-
-	this.shape_7 = new cjs.Shape();
-	this.shape_7.graphics.beginFill("#FFFFFF").beginStroke().moveTo(-12.1,12.4).curveTo(-13,12.3,-13.5,11.6).curveTo(-14.1,10.8,-13.9,10).lineTo(-10.8,-10.4).curveTo(-10.6,-11.6,-11.3,-12.5).lineTo(14,2.1).lineTo(2.7,0.6).curveTo(0.9,0.3,-0.4,1.6).lineTo(-10.3,11.8).curveTo(-10.9,12.5,-11.8,12.5).lineTo(-12.1,12.4).closePath();
-	this.shape_7.setTransform(13.9839,12.4618);
-
-	this.shape_8 = new cjs.Shape();
-	this.shape_8.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1,-7.5).curveTo(1.6,-8.2,2.4,-8.3).curveTo(3.3,-8.5,4,-8).curveTo(4.5,-7.7,4.8,-7.1).lineTo(8.5,1.5).curveTo(8.9,2.5,9.9,3).lineTo(-9.9,8.3).closePath();
-	this.shape_8.setTransform(61.225,28.9077);
-
-	this.shape_9 = new cjs.Shape();
-	this.shape_9.graphics.beginFill("#FFFFFF").beginStroke().moveTo(1,-7.5).curveTo(1.6,-8.2,2.4,-8.3).curveTo(3.3,-8.5,4,-8).curveTo(4.5,-7.7,4.8,-7.1).lineTo(8.5,1.5).curveTo(8.9,2.5,9.9,3).lineTo(-9.9,8.3).closePath();
-	this.shape_9.setTransform(61.225,28.9077);
-
-	var maskedShapeInstanceList = [this.shape,this.shape_1,this.shape_2,this.shape_3,this.shape_4,this.shape_5,this.shape_6,this.shape_7,this.shape_8,this.shape_9];
-
-	for(var shapedInstanceItr = 0; shapedInstanceItr < maskedShapeInstanceList.length; shapedInstanceItr++) {
-		maskedShapeInstanceList[shapedInstanceItr].mask = mask;
-	}
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.ClipGroup, new cjs.Rectangle(0,0,71.1,51), null);
-
-
 (lib.Plane = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
@@ -544,19 +543,6 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 }).prototype = getMCSymbolPrototype(lib.Plane, new cjs.Rectangle(-556.6,140.8,294.1,148.3), null);
-
-
-(lib.LEndlease = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.ClipGroup();
-	this.instance.parent = this;
-	this.instance.setTransform(0.05,0.15,1.4501,1.4501,0,0,0,35.6,25.6);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.LEndlease, new cjs.Rectangle(-51.5,-36.9,103.1,73.9), null);
 
 
 // stage content:
@@ -994,33 +980,45 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(285));
 
-	// Lenmdlease_logo
-	this.instance_10 = new lib.LEndlease();
-	this.instance_10.parent = this;
-	this.instance_10.setTransform(60,529,0.7478,0.7478);
+	// Layer_1
+	this.shape_80 = new cjs.Shape();
+	this.shape_80.graphics.beginFill("#FFFFFF").beginStroke().moveTo(62.8,12.4).curveTo(60.1,10.2,60.1,5.8).lineTo(60.1,1.5).curveTo(60.2,-2.5,62.4,-4.9).curveTo(64.7,-7.2,68.5,-7.2).curveTo(72.4,-7.2,74.5,-4.8).curveTo(76.6,-2.6,76.6,1.2).lineTo(76.6,5.4).lineTo(65.6,5.4).lineTo(65.6,5.8).curveTo(65.7,7.5,66.6,8.5).curveTo(67.6,9.6,69.5,9.6).curveTo(71.9,9.6,74.6,8.2).lineTo(76.1,12.6).curveTo(72.7,14.4,68.9,14.4).curveTo(65.1,14.4,62.8,12.4).closePath().moveTo(66.4,-1.5).curveTo(65.7,-0.6,65.7,0.9).lineTo(65.7,1.2).lineTo(71.3,1.2).lineTo(71.3,0.9).curveTo(71.2,-0.6,70.6,-1.5).curveTo(69.8,-2.4,68.5,-2.4).curveTo(67.1,-2.4,66.4,-1.5).closePath().moveTo(41.9,12.4).lineTo(44.3,8.1).curveTo(46.7,9.6,49.7,9.6).curveTo(52.2,9.6,52.2,8.2).curveTo(52.2,7.6,51.7,7.2).curveTo(51.3,6.9,50.1,6.5).lineTo(47.5,5.6).curveTo(42.3,3.8,42.3,-0.6).curveTo(42.3,-3.6,44.6,-5.4).curveTo(47,-7.2,50.3,-7.2).curveTo(52.6,-7.2,54.8,-6.6).curveTo(56.7,-6,57.9,-5.3).lineTo(55.4,-1.1).curveTo(53,-2.5,50.4,-2.5).curveTo(48.1,-2.5,48.1,-1.1).curveTo(48.1,-0.1,49.8,0.5).lineTo(52.7,1.5).curveTo(55.2,2.3,56.5,3.7).curveTo(58,5.2,58,7.6).curveTo(58,10.7,55.6,12.6).curveTo(53.3,14.4,49.8,14.4).curveTo(45.1,14.4,41.9,12.4).closePath().moveTo(25.2,12.6).curveTo(23,10.7,23.1,7.6).curveTo(23.1,4.7,24.9,3.1).curveTo(26.9,1.3,30.3,1.2).lineTo(34.1,1.2).lineTo(34.1,0.4).curveTo(34.2,-2.2,30.8,-2.3).curveTo(28.1,-2.2,24.7,-0.6).lineTo(24.1,-5.5).curveTo(27.9,-7.2,32,-7.2).curveTo(35,-7.2,37.1,-5.9).curveTo(39.7,-4.2,39.7,-0.6).lineTo(39.7,12.6).curveTo(35.2,14.4,31.4,14.4).curveTo(27.4,14.4,25.2,12.6).closePath().moveTo(29.3,6).curveTo(28.6,6.6,28.6,7.6).curveTo(28.6,8.6,29.5,9.2).curveTo(30.3,9.8,31.7,9.8).curveTo(32.9,9.8,34.1,9.4).lineTo(34.1,5.4).lineTo(31.2,5.4).curveTo(30,5.4,29.3,6).closePath().moveTo(7.1,12.4).curveTo(4.4,10.2,4.4,5.8).lineTo(4.4,1.5).curveTo(4.5,-2.5,6.7,-4.9).curveTo(9,-7.2,12.9,-7.2).curveTo(16.7,-7.2,18.9,-4.8).curveTo(20.9,-2.6,21,1.2).lineTo(21,5.4).lineTo(10,5.4).lineTo(10,5.8).curveTo(10,7.5,11,8.5).curveTo(12,9.6,13.8,9.6).curveTo(16.3,9.6,18.9,8.2).lineTo(20.5,12.6).curveTo(17.1,14.4,13.2,14.4).curveTo(9.5,14.4,7.1,12.4).closePath().moveTo(10.7,-1.5).curveTo(10.1,-0.6,10.1,0.9).lineTo(10.1,1.2).lineTo(15.6,1.2).lineTo(15.6,0.9).curveTo(15.6,-0.6,14.9,-1.5).curveTo(14.2,-2.4,12.9,-2.4).curveTo(11.5,-2.4,10.7,-1.5).closePath().moveTo(-4.7,13.1).curveTo(-6.1,11.8,-6.1,9.3).lineTo(-6.1,-14.4).lineTo(-0.6,-14.4).lineTo(-0.6,7.7).curveTo(-0.6,9.6,0.9,9.6).curveTo(1.8,9.6,2.9,9.3).lineTo(3.4,13.7).curveTo(1.5,14.4,-0.7,14.4).curveTo(-3.3,14.4,-4.7,13.1).closePath().moveTo(-24.5,12.1).curveTo(-26.6,10.1,-26.6,6.8).lineTo(-26.6,-0).curveTo(-26.6,-3.3,-24.6,-5.2).curveTo(-22.6,-7.2,-19.1,-7.2).curveTo(-17,-7.2,-15.2,-6.6).lineTo(-15.2,-14.4).lineTo(-9.7,-14.4).lineTo(-9.7,12.6).curveTo(-14.2,14.4,-18.2,14.4).curveTo(-22.3,14.4,-24.5,12.1).closePath().moveTo(-20.1,-1.7).curveTo(-21.1,-0.8,-21.1,1.1).lineTo(-21.1,6).curveTo(-21.1,9.6,-17.4,9.6).curveTo(-16.2,9.6,-15.2,9.2).lineTo(-15.2,-2).curveTo(-16.5,-2.5,-17.8,-2.5).curveTo(-19.2,-2.5,-20.1,-1.7).closePath().moveTo(-63.3,12.4).curveTo(-66,10.2,-66,5.8).lineTo(-66,1.5).curveTo(-66,-2.5,-63.7,-4.9).curveTo(-61.4,-7.2,-57.7,-7.2).curveTo(-53.8,-7.2,-51.6,-4.8).curveTo(-49.5,-2.6,-49.5,1.2).lineTo(-49.5,5.4).lineTo(-60.5,5.4).lineTo(-60.5,5.8).curveTo(-60.4,7.5,-59.5,8.5).curveTo(-58.4,9.6,-56.7,9.6).curveTo(-54.2,9.6,-51.5,8.2).lineTo(-49.9,12.6).curveTo(-53.5,14.4,-57.3,14.4).curveTo(-61,14.4,-63.3,12.4).closePath().moveTo(-59.8,-1.5).curveTo(-60.5,-0.6,-60.5,0.9).lineTo(-60.5,1.2).lineTo(-54.9,1.2).lineTo(-54.9,0.9).curveTo(-54.9,-0.6,-55.5,-1.5).curveTo(-56.3,-2.4,-57.6,-2.4).curveTo(-59,-2.4,-59.8,-1.5).closePath().moveTo(-75.1,13.1).curveTo(-76.6,11.8,-76.6,9.3).lineTo(-76.6,-14.4).lineTo(-71.1,-14.4).lineTo(-71.1,7.7).curveTo(-71,9.6,-69.5,9.6).curveTo(-68.7,9.6,-67.6,9.3).lineTo(-67,13.7).curveTo(-69.1,14.4,-71.2,14.4).curveTo(-73.7,14.4,-75.1,13.1).closePath().moveTo(-35.3,14).lineTo(-35.3,1).curveTo(-35.3,-2.3,-38.5,-2.3).curveTo(-39.8,-2.3,-41,-1.8).lineTo(-41,14).lineTo(-46.5,14).lineTo(-46.5,-5.3).curveTo(-42,-7.2,-38,-7.2).curveTo(-33.9,-7.2,-31.8,-5.2).curveTo(-29.8,-3.5,-29.8,-0.3).lineTo(-29.8,14).closePath();
+	this.shape_80.setTransform(56.1481,529.1586,0.2943,0.2943);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_10).wait(285));
+	this.shape_81 = new cjs.Shape();
+	this.shape_81.graphics.beginLinearGradientFill(["#FF6400","#FF5200","#FF2400","#FF0000"],[0,0.176,0.533,0.784],7.7,-28.5,-18.8,61.3).beginStroke().moveTo(-49,50.2).curveTo(-52.6,49.6,-54.7,46.7).curveTo(-56.8,43.8,-56.2,40.3).lineTo(-43.5,-42).curveTo(-42.8,-46.6,-45.5,-50.3).lineTo(56.3,8.7).lineTo(10.8,2.5).curveTo(7.3,2,4,3.2).curveTo(0.8,4.3,-1.6,6.7).lineTo(-41.5,47.7).curveTo(-43,49.1,-44.9,49.8).curveTo(-46.3,50.3,-47.6,50.3).lineTo(-49,50.2).closePath();
+	this.shape_81.setTransform(35.1769,513.9163,0.2942,0.2942);
+
+	this.shape_82 = new cjs.Shape();
+	this.shape_82.graphics.beginLinearGradientFill(["#919BA5","#C8C8C8"],[0,1],-16.3,-1,36.1,18.4).beginStroke().moveTo(4.1,-29.9).curveTo(6.2,-32.9,9.7,-33.5).curveTo(13.2,-34.1,16.1,-32.1).curveTo(18.2,-30.7,19.1,-28.4).lineTo(34.2,6.3).curveTo(35.8,10.3,39.8,12.1).lineTo(-39.8,33.7).closePath();
+	this.shape_82.setTransform(90.2807,532.189,0.2942,0.2942);
+
+	this.shape_83 = new cjs.Shape();
+	this.shape_83.graphics.beginLinearGradientFill(["#FAB423","#FBA21B","#FE7206","#FF6400"],[0.184,0.376,0.757,0.859],32.5,-102.2,-60.5,78.3).beginStroke().moveTo(1.2,69.2).lineTo(-126.2,-29.2).curveTo(-124.5,-27.9,-122.4,-27.5).curveTo(-120.3,-27.2,-118.3,-27.9).curveTo(-116.3,-28.6,-114.9,-30).lineTo(-74.9,-71).curveTo(-72.5,-73.4,-69.3,-74.5).curveTo(-66,-75.7,-62.5,-75.2).lineTo(126.2,-49.2).curveTo(123.9,-49.5,121.8,-48.5).curveTo(119.5,-47.6,118.1,-45.5).lineTo(42.4,64).curveTo(35,73.6,22.9,75.1).curveTo(20.8,75.4,18.8,75.4).curveTo(9.2,75.4,1.2,69.2).closePath();
+	this.shape_83.setTransform(56.7734,536.7908,0.2943,0.2943);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_83},{t:this.shape_82},{t:this.shape_81},{t:this.shape_80}]}).wait(285));
 
 	// Layer_4
-	this.shape_80 = new cjs.Shape();
-	this.shape_80.graphics.beginFill("#000000").beginStroke().moveTo(32.1,3.6).curveTo(31.3,2.7,31.2,1.3).curveTo(31.2,0,32.1,-0.8).curveTo(32.8,-1.6,33.9,-1.6).curveTo(35.2,-1.6,35.9,-0.8).curveTo(36.7,-0,36.7,1.3).lineTo(36.6,1.7).lineTo(32.3,1.7).curveTo(32.4,2.4,32.9,2.9).curveTo(33.4,3.4,34,3.4).curveTo(35.3,3.4,35.7,2.2).lineTo(36.6,2.6).curveTo(36.4,3.4,35.7,3.8).curveTo(35,4.4,34,4.4).curveTo(32.9,4.4,32.1,3.6).closePath().moveTo(35.5,0.8).curveTo(35.4,0.1,35.1,-0.2).curveTo(34.6,-0.7,33.9,-0.7).curveTo(33.3,-0.7,32.9,-0.2).curveTo(32.4,0.2,32.4,0.8).lineTo(35.5,0.8).lineTo(35.5,0.8).closePath().moveTo(21.2,3.5).curveTo(20.4,2.6,20.4,1.3).curveTo(20.4,0.1,21.2,-0.8).curveTo(22,-1.6,23.2,-1.6).curveTo(24.5,-1.6,25.3,-0.8).curveTo(26.1,0.1,26.1,1.3).curveTo(26.1,2.6,25.3,3.5).curveTo(24.5,4.4,23.2,4.4).curveTo(22,4.4,21.2,3.5).closePath().moveTo(22,-0.1).curveTo(21.5,0.4,21.5,1.3).curveTo(21.5,2.3,22,2.9).curveTo(22.5,3.4,23.2,3.4).curveTo(24,3.4,24.5,2.9).curveTo(25,2.3,25,1.3).curveTo(25,0.4,24.5,-0.1).curveTo(24,-0.7,23.2,-0.7).curveTo(22.5,-0.7,22,-0.1).closePath().moveTo(-2.5,3.5).curveTo(-3.4,2.6,-3.3,1.3).curveTo(-3.4,0.1,-2.5,-0.8).curveTo(-1.7,-1.6,-0.4,-1.6).curveTo(0.8,-1.6,1.6,-0.8).curveTo(2.5,0.1,2.5,1.3).curveTo(2.5,2.6,1.6,3.5).curveTo(0.8,4.4,-0.4,4.4).curveTo(-1.7,4.4,-2.5,3.5).closePath().moveTo(-1.7,-0.1).curveTo(-2.2,0.4,-2.2,1.3).curveTo(-2.2,2.3,-1.7,2.9).curveTo(-1.2,3.4,-0.4,3.4).curveTo(0.3,3.4,0.8,2.9).curveTo(1.3,2.3,1.3,1.3).curveTo(1.3,0.4,0.8,-0.1).curveTo(0.3,-0.7,-0.4,-0.7).curveTo(-1.2,-0.7,-1.7,-0.1).closePath().moveTo(-21.4,3.5).curveTo(-22.3,2.6,-22.2,1.3).curveTo(-22.3,0,-21.4,-0.8).curveTo(-20.6,-1.6,-19.4,-1.6).curveTo(-18.4,-1.6,-17.6,-1.1).curveTo(-17.1,-0.6,-16.9,0.2).lineTo(-17.9,0.6).curveTo(-18.2,-0.6,-19.4,-0.6).curveTo(-20.1,-0.6,-20.6,-0.1).curveTo(-21.1,0.4,-21.1,1.3).curveTo(-21.1,2.3,-20.6,2.8).curveTo(-20.1,3.3,-19.4,3.3).curveTo(-18.1,3.3,-17.8,2.2).lineTo(-16.8,2.6).curveTo(-17.1,3.3,-17.6,3.8).curveTo(-18.4,4.4,-19.4,4.4).curveTo(-20.6,4.4,-21.4,3.5).closePath().moveTo(-35.4,3.2).curveTo(-36.6,2,-36.6,0).curveTo(-36.6,-2,-35.4,-3.2).curveTo(-34.2,-4.3,-32.6,-4.3).curveTo(-31.2,-4.3,-30.1,-3.6).curveTo(-29.2,-2.9,-28.9,-1.7).lineTo(-30,-1.3).curveTo(-30.4,-3.3,-32.6,-3.3).curveTo(-33.8,-3.3,-34.6,-2.4).curveTo(-35.5,-1.5,-35.5,0).curveTo(-35.5,1.6,-34.6,2.5).curveTo(-33.8,3.3,-32.6,3.3).curveTo(-31.5,3.3,-30.8,2.7).curveTo(-30.2,2.2,-29.9,1.3).lineTo(-28.9,1.7).curveTo(-29.2,2.9,-30.1,3.6).curveTo(-31.2,4.4,-32.6,4.4).curveTo(-34.2,4.4,-35.4,3.2).closePath().moveTo(27.5,4.2).lineTo(27.5,-1.5).lineTo(28.5,-1.5).lineTo(28.5,-0.5).curveTo(29,-1.6,30.2,-1.6).lineTo(30.5,-1.5).lineTo(30.5,-0.4).lineTo(30.1,-0.4).curveTo(28.5,-0.4,28.5,1.3).lineTo(28.5,4.2).closePath().moveTo(18.1,4.2).lineTo(18.1,0.6).curveTo(18.1,-0.7,16.9,-0.7).curveTo(16.3,-0.7,15.9,-0.2).curveTo(15.6,0.2,15.6,0.8).lineTo(15.6,4.2).lineTo(14.5,4.2).lineTo(14.5,0.6).curveTo(14.5,-0.7,13.3,-0.7).curveTo(12.7,-0.7,12.3,-0.3).curveTo(12,0.1,12,0.8).lineTo(12,4.2).lineTo(10.9,4.2).lineTo(10.9,-1.5).lineTo(12,-1.5).lineTo(12,-0.7).curveTo(12.5,-1.6,13.6,-1.6).curveTo(14.9,-1.6,15.3,-0.6).curveTo(15.9,-1.6,17.2,-1.6).curveTo(18.1,-1.6,18.6,-1.1).curveTo(19.2,-0.5,19.2,0.5).lineTo(19.2,4.2).closePath().moveTo(3.8,4.2).lineTo(3.8,-1.5).lineTo(4.9,-1.5).lineTo(4.9,-0.5).curveTo(5.4,-1.6,6.6,-1.6).lineTo(6.9,-1.5).lineTo(6.9,-0.4).lineTo(6.4,-0.4).curveTo(4.9,-0.4,4.9,1.3).lineTo(4.9,4.2).closePath().moveTo(-6.4,4.2).lineTo(-6.4,-0.5).lineTo(-7.5,-0.5).lineTo(-7.5,-1.5).lineTo(-6.4,-1.5).lineTo(-6.4,-2.4).curveTo(-6.4,-3.3,-5.9,-3.9).curveTo(-5.3,-4.3,-4.6,-4.3).curveTo(-4,-4.3,-3.9,-4.2).lineTo(-3.9,-3.2).lineTo(-4.4,-3.3).curveTo(-5.3,-3.3,-5.3,-2.4).lineTo(-5.3,-1.5).lineTo(-3.9,-1.5).lineTo(-3.9,-0.5).lineTo(-5.3,-0.5).lineTo(-5.3,4.2).closePath().moveTo(-12,4.2).lineTo(-13.8,1.7).lineTo(-14.6,2.5).lineTo(-14.6,4.2).lineTo(-15.6,4.2).lineTo(-15.6,-4.3).lineTo(-14.6,-4.3).lineTo(-14.6,1).lineTo(-12.1,-1.5).lineTo(-10.6,-1.5).lineTo(-13,0.9).lineTo(-10.5,4.2).closePath().moveTo(-24.6,4.2).lineTo(-24.6,-1.5).lineTo(-23.6,-1.5).lineTo(-23.6,4.2).closePath().moveTo(-27.5,4.2).lineTo(-27.5,-4.3).lineTo(-26.4,-4.3).lineTo(-26.4,4.2).closePath().moveTo(-24.7,-3).curveTo(-24.9,-3.3,-24.9,-3.6).curveTo(-24.9,-3.9,-24.7,-4.2).curveTo(-24.4,-4.4,-24.1,-4.4).curveTo(-23.8,-4.4,-23.6,-4.2).curveTo(-23.4,-3.9,-23.4,-3.6).curveTo(-23.4,-3.3,-23.6,-3).curveTo(-23.8,-2.8,-24.1,-2.8).curveTo(-24.4,-2.8,-24.7,-3).closePath();
-	this.shape_80.setTransform(58.75,458.725);
+	this.shape_84 = new cjs.Shape();
+	this.shape_84.graphics.beginFill("#FF6400").beginStroke().moveTo(32.1,3.6).curveTo(31.3,2.7,31.2,1.3).curveTo(31.2,0,32.1,-0.8).curveTo(32.8,-1.6,33.9,-1.6).curveTo(35.2,-1.6,35.9,-0.8).curveTo(36.7,-0,36.7,1.3).lineTo(36.6,1.7).lineTo(32.3,1.7).curveTo(32.4,2.4,32.9,2.9).curveTo(33.4,3.4,34,3.4).curveTo(35.3,3.4,35.7,2.2).lineTo(36.6,2.6).curveTo(36.4,3.4,35.7,3.8).curveTo(35,4.4,34,4.4).curveTo(32.9,4.4,32.1,3.6).closePath().moveTo(35.5,0.8).curveTo(35.4,0.1,35.1,-0.2).curveTo(34.6,-0.7,33.9,-0.7).curveTo(33.3,-0.7,32.9,-0.2).curveTo(32.4,0.2,32.4,0.8).lineTo(35.5,0.8).lineTo(35.5,0.8).closePath().moveTo(21.2,3.5).curveTo(20.4,2.6,20.4,1.3).curveTo(20.4,0.1,21.2,-0.8).curveTo(22,-1.6,23.2,-1.6).curveTo(24.5,-1.6,25.3,-0.8).curveTo(26.1,0.1,26.1,1.3).curveTo(26.1,2.6,25.3,3.5).curveTo(24.5,4.4,23.2,4.4).curveTo(22,4.4,21.2,3.5).closePath().moveTo(22,-0.1).curveTo(21.5,0.4,21.5,1.3).curveTo(21.5,2.3,22,2.9).curveTo(22.5,3.4,23.2,3.4).curveTo(24,3.4,24.5,2.9).curveTo(25,2.3,25,1.3).curveTo(25,0.4,24.5,-0.1).curveTo(24,-0.7,23.2,-0.7).curveTo(22.5,-0.7,22,-0.1).closePath().moveTo(-2.5,3.5).curveTo(-3.4,2.6,-3.3,1.3).curveTo(-3.4,0.1,-2.5,-0.8).curveTo(-1.7,-1.6,-0.4,-1.6).curveTo(0.8,-1.6,1.6,-0.8).curveTo(2.5,0.1,2.5,1.3).curveTo(2.5,2.6,1.6,3.5).curveTo(0.8,4.4,-0.4,4.4).curveTo(-1.7,4.4,-2.5,3.5).closePath().moveTo(-1.7,-0.1).curveTo(-2.2,0.4,-2.2,1.3).curveTo(-2.2,2.3,-1.7,2.9).curveTo(-1.2,3.4,-0.4,3.4).curveTo(0.3,3.4,0.8,2.9).curveTo(1.3,2.3,1.3,1.3).curveTo(1.3,0.4,0.8,-0.1).curveTo(0.3,-0.7,-0.4,-0.7).curveTo(-1.2,-0.7,-1.7,-0.1).closePath().moveTo(-21.4,3.5).curveTo(-22.3,2.6,-22.2,1.3).curveTo(-22.3,0,-21.4,-0.8).curveTo(-20.6,-1.6,-19.4,-1.6).curveTo(-18.4,-1.6,-17.6,-1.1).curveTo(-17.1,-0.6,-16.9,0.2).lineTo(-17.9,0.6).curveTo(-18.2,-0.6,-19.4,-0.6).curveTo(-20.1,-0.6,-20.6,-0.1).curveTo(-21.1,0.4,-21.1,1.3).curveTo(-21.1,2.3,-20.6,2.8).curveTo(-20.1,3.3,-19.4,3.3).curveTo(-18.1,3.3,-17.8,2.2).lineTo(-16.8,2.6).curveTo(-17.1,3.3,-17.6,3.8).curveTo(-18.4,4.4,-19.4,4.4).curveTo(-20.6,4.4,-21.4,3.5).closePath().moveTo(-35.4,3.2).curveTo(-36.6,2,-36.6,0).curveTo(-36.6,-2,-35.4,-3.2).curveTo(-34.2,-4.3,-32.6,-4.3).curveTo(-31.2,-4.3,-30.1,-3.6).curveTo(-29.2,-2.9,-28.9,-1.7).lineTo(-30,-1.3).curveTo(-30.4,-3.3,-32.6,-3.3).curveTo(-33.8,-3.3,-34.6,-2.4).curveTo(-35.5,-1.5,-35.5,0).curveTo(-35.5,1.6,-34.6,2.5).curveTo(-33.8,3.3,-32.6,3.3).curveTo(-31.5,3.3,-30.8,2.7).curveTo(-30.2,2.2,-29.9,1.3).lineTo(-28.9,1.7).curveTo(-29.2,2.9,-30.1,3.6).curveTo(-31.2,4.4,-32.6,4.4).curveTo(-34.2,4.4,-35.4,3.2).closePath().moveTo(27.5,4.2).lineTo(27.5,-1.5).lineTo(28.5,-1.5).lineTo(28.5,-0.5).curveTo(29,-1.6,30.2,-1.6).lineTo(30.5,-1.5).lineTo(30.5,-0.4).lineTo(30.1,-0.4).curveTo(28.5,-0.4,28.5,1.3).lineTo(28.5,4.2).closePath().moveTo(18.1,4.2).lineTo(18.1,0.6).curveTo(18.1,-0.7,16.9,-0.7).curveTo(16.3,-0.7,15.9,-0.2).curveTo(15.6,0.2,15.6,0.8).lineTo(15.6,4.2).lineTo(14.5,4.2).lineTo(14.5,0.6).curveTo(14.5,-0.7,13.3,-0.7).curveTo(12.7,-0.7,12.3,-0.3).curveTo(12,0.1,12,0.8).lineTo(12,4.2).lineTo(10.9,4.2).lineTo(10.9,-1.5).lineTo(12,-1.5).lineTo(12,-0.7).curveTo(12.5,-1.6,13.6,-1.6).curveTo(14.9,-1.6,15.3,-0.6).curveTo(15.9,-1.6,17.2,-1.6).curveTo(18.1,-1.6,18.6,-1.1).curveTo(19.2,-0.5,19.2,0.5).lineTo(19.2,4.2).closePath().moveTo(3.8,4.2).lineTo(3.8,-1.5).lineTo(4.9,-1.5).lineTo(4.9,-0.5).curveTo(5.4,-1.6,6.6,-1.6).lineTo(6.9,-1.5).lineTo(6.9,-0.4).lineTo(6.4,-0.4).curveTo(4.9,-0.4,4.9,1.3).lineTo(4.9,4.2).closePath().moveTo(-6.4,4.2).lineTo(-6.4,-0.5).lineTo(-7.5,-0.5).lineTo(-7.5,-1.5).lineTo(-6.4,-1.5).lineTo(-6.4,-2.4).curveTo(-6.4,-3.3,-5.9,-3.9).curveTo(-5.3,-4.3,-4.6,-4.3).curveTo(-4,-4.3,-3.9,-4.2).lineTo(-3.9,-3.2).lineTo(-4.4,-3.3).curveTo(-5.3,-3.3,-5.3,-2.4).lineTo(-5.3,-1.5).lineTo(-3.9,-1.5).lineTo(-3.9,-0.5).lineTo(-5.3,-0.5).lineTo(-5.3,4.2).closePath().moveTo(-12,4.2).lineTo(-13.8,1.7).lineTo(-14.6,2.5).lineTo(-14.6,4.2).lineTo(-15.6,4.2).lineTo(-15.6,-4.3).lineTo(-14.6,-4.3).lineTo(-14.6,1).lineTo(-12.1,-1.5).lineTo(-10.6,-1.5).lineTo(-13,0.9).lineTo(-10.5,4.2).closePath().moveTo(-24.6,4.2).lineTo(-24.6,-1.5).lineTo(-23.6,-1.5).lineTo(-23.6,4.2).closePath().moveTo(-27.5,4.2).lineTo(-27.5,-4.3).lineTo(-26.4,-4.3).lineTo(-26.4,4.2).closePath().moveTo(-24.7,-3).curveTo(-24.9,-3.3,-24.9,-3.6).curveTo(-24.9,-3.9,-24.7,-4.2).curveTo(-24.4,-4.4,-24.1,-4.4).curveTo(-23.8,-4.4,-23.6,-4.2).curveTo(-23.4,-3.9,-23.4,-3.6).curveTo(-23.4,-3.3,-23.6,-3).curveTo(-23.8,-2.8,-24.1,-2.8).curveTo(-24.4,-2.8,-24.7,-3).closePath();
+	this.shape_84.setTransform(58.75,458.725);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape_80).wait(285));
+	this.timeline.addTween(cjs.Tween.get(this.shape_84).wait(285));
 
 	// Register_btn
-	this.shape_81 = new cjs.Shape();
-	this.shape_81.graphics.beginFill().beginStroke("#000000").setStrokeStyle(1.5,1,1).moveTo(-33.6,-9.1).lineTo(33.7,-9.1).curveTo(37.4,-9.1,40,-6.5).curveTo(42.8,-3.8,42.8,-0).lineTo(42.8,0).curveTo(42.8,3.8,40,6.4).curveTo(37.4,9.1,33.7,9.1).lineTo(-33.6,9.1).curveTo(-37.4,9.1,-40.1,6.4).curveTo(-42.8,3.8,-42.8,0).lineTo(-42.8,-0).curveTo(-42.8,-3.8,-40.1,-6.5).curveTo(-37.4,-9.1,-33.6,-9.1).closePath();
-	this.shape_81.setTransform(59.5,458.875);
+	this.shape_85 = new cjs.Shape();
+	this.shape_85.graphics.beginFill().beginStroke("#FF6400").setStrokeStyle(1.5,1,1).moveTo(-33.6,-9.1).lineTo(33.7,-9.1).curveTo(37.4,-9.1,40,-6.5).curveTo(42.8,-3.8,42.8,-0).lineTo(42.8,0).curveTo(42.8,3.8,40,6.4).curveTo(37.4,9.1,33.7,9.1).lineTo(-33.6,9.1).curveTo(-37.4,9.1,-40.1,6.4).curveTo(-42.8,3.8,-42.8,0).lineTo(-42.8,-0).curveTo(-42.8,-3.8,-40.1,-6.5).curveTo(-37.4,-9.1,-33.6,-9.1).closePath();
+	this.shape_85.setTransform(59.5,458.875);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape_81).wait(285));
+	this.timeline.addTween(cjs.Tween.get(this.shape_85).wait(285));
 
 	// BKG
-	this.shape_82 = new cjs.Shape();
-	this.shape_82.graphics.beginFill("#F26522").beginStroke().moveTo(-80,300).lineTo(-80,-300).lineTo(80,-300).lineTo(80,300).closePath();
-	this.shape_82.setTransform(80,300);
+	this.shape_86 = new cjs.Shape();
+	this.shape_86.graphics.beginFill("#323232").beginStroke().moveTo(-80,300).lineTo(-80,-300).lineTo(80,-300).lineTo(80,300).closePath();
+	this.shape_86.setTransform(80,300);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape_82).wait(285));
+	this.timeline.addTween(cjs.Tween.get(this.shape_86).wait(285));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-1.7,276.1,205.7,323.9);
