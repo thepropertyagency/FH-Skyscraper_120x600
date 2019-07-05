@@ -533,6 +533,21 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 }).prototype = getMCSymbolPrototype(lib.ClipGroup, new cjs.Rectangle(0,0,71.1,51), null);
 
 
+(lib.BTN = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.beginFill("#323232").beginStroke().moveTo(-114,145.5).lineTo(-114,-145.5).lineTo(114,-145.5).lineTo(114,145.5).closePath();
+	this.shape.setTransform(0,0.025);
+	this.shape._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(3).to({_off:false},0).wait(1));
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(-114,-145.4,228,290.9);
+
+
 (lib.Plane = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
@@ -562,6 +577,25 @@ p.nominalBounds = new cjs.Rectangle(-250,-278,500,556);
 // stage content:
 (lib.FHSkyscraper120x600 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{lineout:72,"lineout":170,"lineout":268});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		this.btn1.on("click", function () {
+		  window.open(window.clickTag, '_blank')
+		          });
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(285));
+
+	// Layer_1
+	this.btn1 = new lib.BTN();
+	this.btn1.name = "btn1";
+	this.btn1.parent = this;
+	this.btn1.setTransform(60.05,299.95,0.5263,2.0622,0,0,0,0.1,0);
+	new cjs.ButtonHelper(this.btn1, 0, 1, 2, false, new lib.BTN(), 3);
+
+	this.timeline.addTween(cjs.Tween.get(this.btn1).wait(285));
 
 	// trace_idn
 	this.shape = new cjs.Shape();
